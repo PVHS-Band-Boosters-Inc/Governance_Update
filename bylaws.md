@@ -11,11 +11,11 @@ The purpose of the PVHS Band Boosters (the "Band Boosters") is to be a community
 The goal of the Band Boosters is to assist the Band Director in the operations of the Program as follows:
 
 **Financial**
-- Purchase items for the Program as requested by the Band Director, manage Booster funds
-- and pay Program staff/designers as requested by the Band Director
-- Expenditures greater than $500.00 shall require prior Board approval
+- Adopt an annual Program budget each year, in consultation with the Band Director, before or as soon as practicable after the start of the fiscal year
+- Purchase items for the Program, and pay Program staff and designers, as requested by the Band Director, within the Board-approved budget and pursuant to the Financial Controls Policy (including its worker-classification and written-agreement requirements)
+- Expenditures not within the Board-approved budget and greater than $500.00 shall require prior Board approval
 - Conduct fundraising and sponsorship activities for the Program
-- Provide monthly financials to the Band Director
+- Provide monthly financials to the Board and the Band Director
 
 **Booster Committees**
 - Establish and manage Booster Committees as permitted by these Bylaws
@@ -36,6 +36,9 @@ The Band Director, as an employee of the school district, shall make all educati
 
 **Administration**
 The Band Director, as an employee of the school district, shall liaise with the PVHS Principal, Athletic Director, and other school administration regarding all aspects of the Program
+
+**Relationship to the Board**
+The Band Director's authority over the Program is educational and artistic. The Board retains sole and non-delegable authority over the corporation's funds, budget, internal controls, and legal compliance; approval of the budget and of expenditures is a fiduciary decision of the Board under section 617.0830, Florida Statutes. Any transaction in which the Band Director, a person engaged at the Band Director's request, or a family member of either has a financial interest is subject to Article XI.
 
 ## Article IV – Membership and Meetings
 
