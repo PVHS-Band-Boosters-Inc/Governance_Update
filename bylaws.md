@@ -179,3 +179,15 @@ The disclosure, the recusal, the comparability information, and the vote shall b
 **Prohibited Regardless of Disclosure.** The corporation shall not make loans to its Directors or Officers (section 617.0833, Florida Statutes). Officers and Directors shall not accept gratuities, perquisites, or gifts from proposed or current vendors (Article V).
 
 **Effect.** A transaction authorized in conformity with this Article and section 617.0832, Florida Statutes, is not void or voidable by reason of the interest, and the interest is not grounds for sanction, as provided by that section.
+
+## Article XII – Indemnification; Advancement of Expenses; Insurance
+
+**Indemnification.** The corporation shall indemnify each current and former Director and Officer, and may indemnify employees and agents, to the fullest extent permitted by section 617.0831, Florida Statutes, and sections 607.0850–607.0859, Florida Statutes, against liabilities and expenses (including attorney fees) incurred by reason of service in that capacity.
+
+**Advancement.** The corporation shall advance the reasonable expenses (including attorney fees) incurred by a Director or Officer who is a party to a proceeding by reason of that service, in advance of final disposition, upon receipt of (a) a written affirmation of the person's good-faith belief that he or she has met the applicable standard of conduct, and (b) a written undertaking to repay the advance if it is ultimately determined that the person is not entitled to indemnification. The undertaking need not be secured and shall be accepted without reference to the person's ability to repay.
+
+**Determinations.** Determinations and authorizations required in connection with indemnification or advancement shall be made as provided by law, including by qualified directors within the meaning of section 617.0143, Florida Statutes, or, where no such determination is possible, by any other means the law permits.
+
+**Insurance.** The Board shall obtain and maintain directors' and officers' liability insurance, and may obtain other insurance, in such amounts as the Board determines reasonable, and shall review coverage annually.
+
+**Nature of Rights.** The rights under this Article are contract rights, are not exclusive of other rights, continue after service ends, and inure to heirs and personal representatives. No amendment or repeal of this Article reduces the rights of any person with respect to acts or omissions occurring before the amendment or repeal.
