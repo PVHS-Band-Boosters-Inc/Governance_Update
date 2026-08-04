@@ -72,15 +72,17 @@ The Band Director, as an employee of the school district, shall liaise with the 
 **No Compensation**
 Officers shall not be compensated by the PVHS Band Boosters, nor shall they receive any gratuities, perquisites, or gifts from proposed or current vendors during their term as an officer.
 
-## Article VI – Officers' Duties
+## Article VI – Officers' Duties; Fiscal Year
 
-President: Conduct all meetings. Organize projects along with sponsor. Obtain approval for all Booster projects from appropriate authorities.
+**President:** Preside over all meetings of the members and of the Board. Serve as the corporation's principal executive officer. Organize projects with the Board and the Band Director. Sign contracts and other instruments approved by the Board. Obtain approval for all Booster projects from appropriate authorities.
 
-Vice Presidents: Assist President on all projects and fundraising events.
+**Vice Presidents:** Assist the President on all projects. The Vice President of Fund Raising leads fundraising and sponsorship activities consistent with Board policy. The Vice President of Operations leads logistics, props, equipment, and event operations.
 
-Secretary: Record and distribute all meeting minutes.
+**Secretary:** Record and distribute all meeting minutes. Give required notices of meetings. Maintain the corporate records required by section 617.1601, Florida Statutes, including the articles, bylaws, minutes, written consents, and the list of current Directors and Officers.
 
-Treasurer: Manage and account for all monies collected and present a monthly financial report.
+**Treasurer:** Manage and account for all monies collected. Maintain accounting records in a form that permits preparation of the corporation's financial statements as required by sections 617.1601(2) and 617.1605, Florida Statutes. Present a monthly financial report to the Board and provide monthly financials to the Band Director. Coordinate the corporation's annual filings, including the IRS Form 990 series return, the Florida Department of State annual report, and any registration required under the Florida Solicitation of Contributions Act (chapter 496, Florida Statutes). Implement the Financial Controls Policy adopted by the Board.
+
+**Fiscal Year.** The fiscal year of the corporation begins July 1 and ends June 30.
 
 ## Article VII – Committees and Duties
 
@@ -88,7 +90,7 @@ Executive Committee: Oversees all business and activities of the Band Boosters. 
 
 Budget and Finance Committee: Oversees the budget and all financial needs of the Boosters in support of Program. This Committee shall be led by the Treasurer.
 
-Fundraising Committee: Oversees all fundraising activities and sponsorships of the Band and Color Guard. This Committee shall be led by the VP of Finance.
+Fundraising Committee: Oversees all fundraising activities and sponsorships of the Band and Color Guard. This Committee shall be led by the Vice President of Fund Raising.
 
 Props Committee: Works in conjunction with Band Director for the creation of the props for the Band and Color Guard. This Committee shall be led by the VP of Operations.
 
