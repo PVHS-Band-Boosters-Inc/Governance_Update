@@ -159,8 +159,23 @@ The Bylaws may be amended at a General Meeting of the PVHS Band Boosters by two-
 
 In the event of the dissolution of the PVHS Band Boosters, the residual funds and assets of the organization will be turned over to Ponte Vedra High School, also a 501(c)3 organization as described by the Internal Revenue Code, or to the St. John's County school district for exclusive public purpose.
 
-## Article XI – Conflict of Interest
+## Article XI – Conflicts of Interest
 
-The Board and the Members shall not engage in any activities that are a conflict of interest with the PVHS Band Boosters. As used herein, a conflict of interest is an actual or perceived interest by a Board member/Membership that results in, or has the appearance of resulting in, personal, organizational, or professional gain. All conflicts of interest are strictly prohibited.
+**Policy.** Conflicts of interest are not inherently prohibited, but they must be disclosed and managed as this Article and section 617.0832, Florida Statutes, provide. Directors, Officers, and committee chairs owe their loyalty in Booster matters to the corporation and the Program as a whole.
 
-The definition of conflict of interest includes any bias or the appearance of bias in a decision-making process that would reflect a dual role played or any fiduciary gain by any member or family member of the Band Boosters.
+**Definitions.** "Conflict-of-interest transaction," "material interest," "material relationship," "qualified director," and "family member" have the meanings given in sections 617.0143 and 617.0832, Florida Statutes.
+
+**Procedure.** Before the corporation enters into any transaction in which a Director, an Officer, the Band Director, or a family member of any of them has a direct or indirect material interest:
+
+1. The interested person shall disclose to the Board all material facts of the transaction and of his or her interest;
+2. The interested person shall recuse himself or herself from Board deliberation and from the vote (recusal from the vote is mandatory; the Board may invite the interested person to answer questions before deliberation);
+3. The Board shall obtain and retain written comparability information where reasonably available (competing quotes, market pricing, or comparable arrangements); and
+4. The transaction must be authorized by the affirmative vote of a majority of the qualified directors, even if the qualified directors are fewer than a quorum, provided that a transaction may not be authorized under this Article by a single director.
+
+The disclosure, the recusal, the comparability information, and the vote shall be recorded in the minutes.
+
+**Annual Disclosure.** Each Director and Officer shall complete the annual disclosure statement provided in the Conflict of Interest Policy adopted by the Board, at the start of each term and upon any material change.
+
+**Prohibited Regardless of Disclosure.** The corporation shall not make loans to its Directors or Officers (section 617.0833, Florida Statutes). Officers and Directors shall not accept gratuities, perquisites, or gifts from proposed or current vendors (Article V).
+
+**Effect.** A transaction authorized in conformity with this Article and section 617.0832, Florida Statutes, is not void or voidable by reason of the interest, and the interest is not grounds for sanction, as provided by that section.
