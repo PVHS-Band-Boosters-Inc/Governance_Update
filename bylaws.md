@@ -153,11 +153,11 @@ Additional committees may be created by the Booster Board as needed. All Committ
 
 ## Article IX – Amendments
 
-The Bylaws may be amended at a General Meeting of the PVHS Band Boosters by two-thirds vote of members present. Any recommendations of changes shall first be presented to the Executive Committee for review, and members must be notified of the vote two (2) weeks prior to the meeting.
+These Bylaws may be amended (a) at any meeting of the members by a vote of two-thirds (2/3) of the votes cast at a meeting at which a quorum is present, provided that the proposed amendment is first presented to the Board for review and that notice of the vote, including the text or an accurate summary of the amendment, is given to members at least fourteen (14) days before the meeting; or (b) by written consent of the members as provided in section 617.0701(4), Florida Statutes. The Board may adopt, amend, and repeal policies of the corporation consistent with these Bylaws without member action.
 
-## Article X – Termination
+## Article X – Dissolution
 
-In the event of the dissolution of the PVHS Band Boosters, the residual funds and assets of the organization will be turned over to Ponte Vedra High School, also a 501(c)3 organization as described by the Internal Revenue Code, or to the St. John's County school district for exclusive public purpose.
+In the event of the dissolution of the PVHS Band Boosters, the residual funds and assets of the organization, after payment of liabilities, shall be distributed to the St. Johns County School District for the benefit of the Ponte Vedra High School band program, or to another governmental unit for exclusive public purposes, or to one or more organizations then described in section 501(c)(3) of the Internal Revenue Code, consistent with the Articles of Incorporation. No assets shall be distributed to any member, Director, or Officer.
 
 ## Article XI – Conflicts of Interest
 
@@ -211,3 +211,7 @@ The disclosure, the recusal, the comparability information, and the vote shall b
 **Financial Statements.** Within ninety (90) days after the end of each fiscal year, the Treasurer shall cause the corporation's annual financial statements, including a year-end balance sheet and a statement of operations, to be posted on the corporation's website or otherwise made generally available to members, as permitted by section 617.1605(3), Florida Statutes.
 
 **Membership List Protections.** The membership list and member contact information may be used only as permitted by section 617.1602, Florida Statutes, and may not be used for commercial purposes or sold.
+
+## Article XV – Severability
+
+If any provision of these Bylaws is held invalid or unenforceable, the remaining provisions remain in full force, and the invalid provision shall be reformed to the minimum extent necessary to make it valid and enforceable.
