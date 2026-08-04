@@ -191,3 +191,23 @@ The disclosure, the recusal, the comparability information, and the vote shall b
 **Insurance.** The Board shall obtain and maintain directors' and officers' liability insurance, and may obtain other insurance, in such amounts as the Board determines reasonable, and shall review coverage annually.
 
 **Nature of Rights.** The rights under this Article are contract rights, are not exclusive of other rights, continue after service ends, and inure to heirs and personal representatives. No amendment or repeal of this Article reduces the rights of any person with respect to acts or omissions occurring before the amendment or repeal.
+
+## Article XIII – Dues and Assessments
+
+**Authorization.** The corporation may levy annual membership dues and Program assessments on its members, as authorized by section 617.0604, Florida Statutes.
+
+**Board Sets Amounts.** As permitted by section 617.0604(3), Florida Statutes, the Board shall fix the amount, categories, and method of collection of dues and assessments by resolution not less than annually. Dues and assessments shall be imposed on the same basis on similarly situated members.
+
+**Hardship; No Exclusion.** The Board shall adopt and publish hardship-waiver criteria. No student shall be excluded from Program participation supported by the corporation solely because of a family's demonstrated inability to pay.
+
+**Enforcement.** Collection may be enforced by reasonable means adopted by the Board, after written notice to the member and an opportunity to be heard as required by section 617.0607, Florida Statutes. Nonpayment does not terminate membership and does not affect any right of a member that the corporation may not limit under chapter 617, Florida Statutes.
+
+## Article XIV – Corporate Records; Inspection; Financial Transparency
+
+**Records.** The corporation shall maintain the records required by section 617.1601, Florida Statutes, including: the articles and bylaws as currently in effect; minutes of member meetings and records of member actions without a meeting for the past three (3) years; minutes and written actions of the Board and its committees; written communications to members generally, including financial statements, for the past three (3) years; the list of current Directors and Officers and their addresses; the most recent annual report filed with the Department of State; accurate accounting records; and the record of members.
+
+**Member Inspection.** Member inspection demands shall be handled as provided in sections 617.1602 and 617.1603, Florida Statutes, and the Records Request Policy adopted by the Board, within the statutory five (5) business days.
+
+**Financial Statements.** Within ninety (90) days after the end of each fiscal year, the Treasurer shall cause the corporation's annual financial statements, including a year-end balance sheet and a statement of operations, to be posted on the corporation's website or otherwise made generally available to members, as permitted by section 617.1605(3), Florida Statutes.
+
+**Membership List Protections.** The membership list and member contact information may be used only as permitted by section 617.1602, Florida Statutes, and may not be used for commercial purposes or sold.
