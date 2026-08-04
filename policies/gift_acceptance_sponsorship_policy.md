@@ -15,7 +15,7 @@ The Treasurer issues a written acknowledgment for every gift of $250 or more, st
 
 ## 4. Sponsorships: Acknowledgment vs. Advertising (IRC §513(i))
 
-Sponsor recognition **may** include: the sponsor's name, logo, location, telephone, website link, and value-neutral descriptions of its products or services. Sponsor recognition **may not** include: qualitative or comparative language ("the best...", "official pizza of..."), price information, endorsements, or calls to action ("visit ... today!"). Recognition that crosses the line is advertising and generates unrelated business taxable income; the Treasurer tracks any such arrangements separately and reports to the Board before renewal. Sponsorship amounts contingent on attendance, ratings, or sales are not accepted.
+Sponsor recognition **may** include: the sponsor's name, logo, location, telephone, website link, and value-neutral descriptions of its products or services. Sponsor recognition **may not** include: qualitative or comparative language ("the best...", "official pizza of..."), price information, endorsements, or calls to action ("visit ... today!"). Recognition that crosses the line is advertising and generates unrelated business taxable income; the Treasurer tracks any such arrangements separately and reports to the Board before renewal. Sponsorship amounts contingent on attendance, ratings, or sales are not accepted. Any use of the school's name, logo, mascot, or trademark in sponsorship or fundraising materials is covered by the Principal's annual written authorization (Bylaws Art. XVI; District Relations Policy §2), and materials for events on school property respect the District's exclusive beverage vendor arrangement.
 
 ## 5. Valuation of In-Kind Gifts
 

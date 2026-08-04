@@ -31,4 +31,4 @@ A Director's inspection request reasonably related to Board duties is honored at
 
 ## 8. Privacy Overlays
 
-Student records, medical forms, and minors' information are redacted or withheld as required by district policy and applicable privacy law, documented in the response.
+Student records, medical forms, and minors' information are redacted or withheld as required by district policy and applicable privacy law, documented in the response. Separately: records the corporation furnishes to the school may become public records under Florida's Public Records Law (District Guidelines §IV) — the corporation cannot promise confidentiality for anything it submits to the school, and limits district submissions to what the Guidelines require.

@@ -6,7 +6,7 @@
 
 - `bylaws.md` — proposed Amended and Restated Bylaws. **Read the git history:** the first commit is the current bylaws verbatim; every commit after it is one amendment with its statutory driver and reasoning in the commit message (`git log -p bylaws.md`).
 - `articles_of_incorporation_RESTATED_DRAFT.md` — restated Articles curing the federal organizational-test defect (no dissolution clause in the 2012 Articles; Florida is not a Rev. Proc. 82-2 state). **This is the highest-stakes document in the package.**
-- `policies/` — eight board policies, one commit each, rationale in each commit message.
+- `policies/` — nine board policies, one commit each, rationale in each commit message. The District Relations and Facilities policy operationalizes the St. Johns County School District's *Guidelines for School Support Organizations*, which the bylaws (Art. XVI) now incorporate.
 
 ## Adoption sequence (recommended)
 
@@ -27,4 +27,4 @@
 
 ## Not included (backlog — mostly district-dependent)
 
-Volunteer screening / child safety, travel & transportation, and student media/privacy policies should be drafted against current St. Johns County School District requirements. An annual board calendar (filings, budget, review, disclosure statements) is worth adopting once the bylaws land.
+Child safety, travel & transportation, and student media/privacy policies should be drafted against current St. Johns County School District requirements (volunteer *registration* is now covered by Bylaws Arts. IV–V and the District Relations Policy; conduct-level child-safety rules are not). Confirm with the school which District annual-report form and Volunteer Liability Awareness questionnaire are current — the Guidelines PDF reviewed is the district's 2020 posting. An annual board calendar (filings, budget, review, disclosure statements) is worth adopting once the bylaws land.
