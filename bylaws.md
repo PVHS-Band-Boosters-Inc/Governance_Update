@@ -39,17 +39,23 @@ The Band Director, as an employee of the school district, shall liaise with the 
 
 ## Article IV – Membership and Meetings
 
-**Membership**
-The membership shall consist of all parents of current Program students. Members shall observe all school rules and regulations, and support state standards and the direction of the administration.
+**Membership.** The membership shall consist of all parents and legal guardians of current Program students. Members shall observe all school rules and regulations, and support state standards and the direction of the administration. Membership is personal and not transferable. The record of members required by section 617.1601(3), Florida Statutes, shall be maintained under the direction of the Secretary with the assistance of the Membership Committee.
 
-**General Meetings**
-General Meetings for all members shall be held at least quarterly either on campus or via conference call and shall be announced no later than the week prior to the meeting. All members should attend all General Meetings. The President shall conduct all General Meetings according to the Robert's Rules of Order. Minutes shall be kept for all formal General Meetings by the Secretary or other attending Officer. Minutes shall be reviewed and approved at the beginning of each meeting and then published to the members.
+**Annual Meeting.** The General Meeting held each April is the annual meeting of the members. At the annual meeting, the members shall elect the Officers (who serve as Directors under Article VIII) and may transact any other proper business.
 
-**Officers Meetings**
-Officer Meeting shall include all members of the PVHS Band Booster Board (defined in Article VI). Officer Meetings shall be held at least quarterly and more often as may be determined by the Board. The President shall conduct all Officer Meeting according to Robert's Rules of Order. Minutes shall be kept for all formal Officers Meetings by the Secretary or other attending Officer. Minutes shall be reviewed and approved at the beginning of each meeting and then published to the members.
+**General Meetings.** General Meetings of the members shall be held at least quarterly, on campus, by remote means, or both. Notice of each General Meeting, stating the date, time, place, and any means of remote participation, shall be given to members at least seven (7) days before the meeting. Notice of the annual meeting shall be given at least fourteen (14) days before the meeting and shall state that Officers will be elected. The President shall conduct all General Meetings according to Robert's Rules of Order.
 
-**Special Meetings**
-Any Officer or Committee Chairman may call for a Special Meeting. If a Special Meeting is called, then no less than all Officers and the Committee Chairman who requested the Special Meeting shall attend. The President shall conduct all Officer Meeting according to Robert's Rules of Order. Minutes for all Special Meetings shall be kept by the Secretary or other attending Officer. Minutes shall be reviewed and approved at the beginning of each meeting and then published to the members.
+**Quorum of Members.** Members holding ten percent (10%) of the votes entitled to be cast, present in person or by remote participation, constitute a quorum at any meeting of the members.
+
+**Voting; No Proxies.** Each member has one (1) vote. Voting by proxy is prohibited. If authorized by the Board, members may participate and vote remotely, provided the corporation implements reasonable measures to verify that each person deemed present and voting is a member and to give members a reasonable opportunity to participate and vote, consistent with section 617.0721, Florida Statutes.
+
+**Action Without a Meeting.** Any action that may be taken at a meeting of the members may be taken without a meeting by written consent of the members as provided in section 617.0701(4), Florida Statutes.
+
+**Special Meetings of Members.** Special meetings of the members may be called by the Board or the President, and shall be called upon the signed, dated, written demand of members holding at least ten percent (10%) of the votes entitled to be cast on any issue proposed to be considered, as provided in section 617.0701(3), Florida Statutes. Only business within the purpose or purposes described in the meeting notice may be conducted at a special meeting.
+
+**Board Meetings.** Meetings of the Board of Directors (formerly "Officers Meetings") are governed by Article VIII.
+
+**Minutes.** Minutes of all meetings of the members shall be kept by the Secretary or another attending Officer, reviewed and approved at the next meeting, and published to the members. Minutes of Board meetings shall be kept and shall be made available to members as provided by sections 617.1601 and 617.1602, Florida Statutes.
 
 ## Article V – Officers, Election of Officers and Term and Compensation
 
