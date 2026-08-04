@@ -42,7 +42,7 @@ The Band Director's authority over the Program is educational and artistic. The 
 
 ## Article IV – Membership and Meetings
 
-**Membership.** The membership shall consist of all parents and legal guardians of current Program students. Members shall observe all school rules and regulations, and support state standards and the direction of the administration. Membership is personal and not transferable. The record of members required by section 617.1601(3), Florida Statutes, shall be maintained under the direction of the Secretary with the assistance of the Membership Committee.
+**Membership.** The membership shall consist of all parents and legal guardians of current Program students. Members shall observe all school rules and regulations, and support state standards and the direction of the administration. Each member shall register as a School District volunteer as required by the District's Guidelines for School Support Organizations. Membership is personal and not transferable. The record of members required by section 617.1601(3), Florida Statutes, shall be maintained under the direction of the Secretary with the assistance of the Membership Committee.
 
 **Annual Meeting.** The General Meeting held each April is the annual meeting of the members. At the annual meeting, the members shall elect the Officers (who serve as Directors under Article VIII) and may transact any other proper business.
 
@@ -62,7 +62,7 @@ The Band Director's authority over the Program is educational and artistic. The 
 
 ## Article V – Officers and Directors; Election; Term; Removal; Vacancies; Compensation
 
-**Officers.** The Officers shall be the President, Vice President of Fund Raising, Vice President of Operations, Treasurer, and Secretary. These five positions are the corporation's only officers for purposes of section 617.0844, Florida Statutes; committee chairs and other volunteers are not officers of the corporation. Each Officer serves as a Director under Article VIII.
+**Officers.** The Officers shall be the President, Vice President of Fund Raising, Vice President of Operations, Treasurer, and Secretary. These five positions are the corporation's only officers for purposes of section 617.0844, Florida Statutes; committee chairs and other volunteers are not officers of the corporation. Each Officer serves as a Director under Article VIII. Each Officer must be, and must remain throughout his or her term, a registered School District volunteer.
 
 **Election and Term.** Officers are elected by the members at the annual meeting in April for the next fiscal year. Members may nominate themselves or other members; the Nominations Committee shall solicit and present candidates. Voting shall be by ballot or by hand vote, or, if authorized by the Board, by verified electronic ballot. Officers serve a one (1) year term, with a limitation of two (2) consecutive terms in the same office, and each Officer continues to serve until his or her successor is elected and takes office, or until his or her earlier resignation, removal, or death.
 
@@ -188,7 +188,7 @@ The disclosure, the recusal, the comparability information, and the vote shall b
 
 **Determinations.** Determinations and authorizations required in connection with indemnification or advancement shall be made as provided by law, including by qualified directors within the meaning of section 617.0143, Florida Statutes, or, where no such determination is possible, by any other means the law permits.
 
-**Insurance.** The Board shall obtain and maintain directors' and officers' liability insurance, and may obtain other insurance, in such amounts as the Board determines reasonable, and shall review coverage annually.
+**Insurance.** The Board shall obtain and maintain directors' and officers' liability insurance, and shall obtain and maintain general liability insurance naming the School Board of St. Johns County as an additional insured with limits of at least $1,000,000 per occurrence and $2,000,000 aggregate as required by the District's Guidelines for School Support Organizations — or, if in a given year the Board determines not to carry general liability insurance, the corporation shall annually notify each member of that fact as those Guidelines require. The Board may obtain other insurance it determines reasonable and shall review all coverage annually.
 
 **Nature of Rights.** The rights under this Article are contract rights, are not exclusive of other rights, continue after service ends, and inure to heirs and personal representatives. No amendment or repeal of this Article reduces the rights of any person with respect to acts or omissions occurring before the amendment or repeal.
 
@@ -215,3 +215,15 @@ The disclosure, the recusal, the comparability information, and the vote shall b
 ## Article XV – Severability
 
 If any provision of these Bylaws is held invalid or unenforceable, the remaining provisions remain in full force, and the invalid provision shall be reformed to the minimum extent necessary to make it valid and enforceable.
+
+## Article XVI – School District Relationship
+
+**Authorization.** The corporation operates as a school support organization under the St. Johns County School District's Guidelines for School Support Organizations and applicable School Board rules. The corporation shall obtain the Principal's written permission annually to use the school's name, logo, mascot, or trademark, and shall not hold itself out as affiliated with the school except under current authorization.
+
+**Annual Submissions.** The Treasurer, with the Secretary, shall submit to the Principal annually, and promptly upon any change: the current bylaws and any amendments; the annual budget; the list of Officers and of check signers; the annual report on the District's prescribed form; the corporation's most recent annual report filed with the Florida Department of State; proof of liability insurance (or the alternative notification under Article XII); and the final bank statement for the period including June 30.
+
+**Status.** The corporation is not a partner or agent of the School Board. The corporation shall not obligate or incur debt, directly or indirectly, in the name of the school, the School Board, or the District.
+
+**Compliance.** The corporation shall comply with applicable law, School Board rules, the District's Guidelines, and the Principal's instructions — including facility-use, fundraising-approval, beverage-vendor-exclusivity, and alcohol restrictions — and shall ensure that individuals with disabilities have equal access to participate in its activities and events.
+
+**Loss of Authorization.** If the corporation's authorization is revoked and not restored on appeal, the corporation shall amend its Articles of Incorporation and these Bylaws to change its name so as not to indicate any affiliation with the school, as the Guidelines require.
