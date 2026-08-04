@@ -21,10 +21,14 @@ Reports may be made to the President, or — where the concern involves the Pres
 
 The disinterested Directors shall acknowledge (if the reporter is known), assess, and investigate proportionately, using outside professionals where warranted, document the outcome, and report the disposition to the Board. Records of reports and investigations are retained per the Document Retention Policy.
 
-## 6. No Retaliation
+## 6. Mandatory District Reporting
+
+Any allegation of misappropriation or misuse of the corporation's funds is reported to the school Principal and the District's Director of Community Relations, as required by the District's Guidelines for School Support Organizations (§V), in addition to — never instead of — the internal handling above. The disinterested Directors make this report promptly; it is not contingent on the internal investigation's outcome.
+
+## 7. No Retaliation
 
 Retaliation against anyone who reports in good faith, or participates in an investigation, is prohibited and is itself grounds for removal proceedings. Good-faith reports that prove unfounded carry no consequence for the reporter. Knowingly false reports are a violation of this Policy.
 
-## 7. Confidentiality
+## 8. Confidentiality
 
-Reports are handled confidentially to the extent consistent with an adequate investigation and legal obligations.
+Reports are handled confidentially to the extent consistent with an adequate investigation, the mandatory District reporting in Section 6, and legal obligations. Note that materials furnished to the school may become public records under Florida's Public Records Law (District Guidelines §IV).
