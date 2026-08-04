@@ -24,7 +24,7 @@ Each year, and promptly upon change, obtain the Principal's written permission t
 
 ## 3. Volunteer Registration
 
-All Officers, Directors, and members register as School District volunteers (Guidelines §VIII; Bylaws Arts. IV–V). The Volunteer Committee verifies Officer/Director registration at the start of each term and before any student-facing activity, and promotes member registration at annual enrollment.
+All Officers, Directors, and members register as School District volunteers (Guidelines §VIII; Bylaws Arts. IV–V) via the District's School Access Volunteer Application, which includes consent to a criminal background check and sex-offender check. District school access runs in three-year intervals — the Volunteer Committee tracks expiration dates, verifies Officer/Director registration at the start of each term and before any student-facing activity, and promotes member registration at annual enrollment. Volunteers present current state-issued ID at each school sign-in.
 
 ## 4. Facilities and Events on School Property
 
