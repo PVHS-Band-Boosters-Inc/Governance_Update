@@ -57,13 +57,17 @@ The Band Director, as an employee of the school district, shall liaise with the 
 
 **Minutes.** Minutes of all meetings of the members shall be kept by the Secretary or another attending Officer, reviewed and approved at the next meeting, and published to the members. Minutes of Board meetings shall be kept and shall be made available to members as provided by sections 617.1601 and 617.1602, Florida Statutes.
 
-## Article V – Officers, Election of Officers and Term and Compensation
+## Article V – Officers and Directors; Election; Term; Removal; Vacancies; Compensation
 
-**Officers**
-The Officers shall be the President, Vice President of Fund Raising, Vice President of Operations, Treasurer, and Secretary.
+**Officers.** The Officers shall be the President, Vice President of Fund Raising, Vice President of Operations, Treasurer, and Secretary. These five positions are the corporation's only officers for purposes of section 617.0844, Florida Statutes; committee chairs and other volunteers are not officers of the corporation. Each Officer serves as a Director under Article VIII.
 
-**Election of Officers and Term**
-Officers are to be elected in April for the next fiscal year. Members shall be nominated by other members or nominate themselves for office. Members shall vote for officers by ballot or by hand vote. Officers shall be elected for a one (1) year term, with a limitation of two (2) consecutive terms.
+**Election and Term.** Officers are elected by the members at the annual meeting in April for the next fiscal year. Members may nominate themselves or other members; the Nominations Committee shall solicit and present candidates. Voting shall be by ballot or by hand vote, or, if authorized by the Board, by verified electronic ballot. Officers serve a one (1) year term, with a limitation of two (2) consecutive terms in the same office, and each Officer continues to serve until his or her successor is elected and takes office, or until his or her earlier resignation, removal, or death.
+
+**Resignation.** An Officer may resign at any time by written notice to the President or the Secretary.
+
+**Removal.** An Officer (and thereby Director) may be removed from office, with or without cause, by the members, by a vote of two-thirds (2/3) of the votes cast at a meeting of the members at which a quorum is present, provided that the meeting notice states that removal of the named individual will be considered. A separate vote is required for each individual whose removal is sought. A person removed from office is not eligible for election until the next annual meeting and shall deliver all records and property of the corporation in his or her possession to the Board within seventy-two (72) hours after removal, as provided in section 617.0808, Florida Statutes.
+
+**Vacancies.** A vacancy in any Officer position, however arising, may be filled by majority vote of the remaining Directors, even if the remaining Directors constitute less than a quorum of the Board. A person elected to fill a vacancy serves until the next annual meeting at which Officers are elected.
 
 **No Compensation**
 Officers shall not be compensated by the PVHS Band Boosters, nor shall they receive any gratuities, perquisites, or gifts from proposed or current vendors during their term as an officer.
