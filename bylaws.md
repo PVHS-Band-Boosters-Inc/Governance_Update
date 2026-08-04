@@ -116,9 +116,25 @@ Senior Committee: Oversee all Senior activities and needs.
 
 Additional committees may be created by the Booster Board as needed. All Committees not specifically led by an Officer as listed above may be led by a Member of the PVHS Band Boosters.
 
-## Article VIII – Booster Board
+## Article VIII – Board of Directors
 
-The Booster Board shall consist of the Officers and the Band Director.
+**Establishment and Composition.** The affairs of the PVHS Band Boosters shall be managed under the direction of a Board of Directors (the "Board"). The Board consists of five (5) Directors: the persons elected to the five Officer positions named in Article V, each of whom serves as a Director by virtue of election to that office. References elsewhere in these Bylaws or in prior records to the "Booster Board" mean the Board of Directors.
+
+**Band Director; Advisory Role.** The Band Director serves as a non-voting advisor to the Board. The Band Director is not a Director or an Officer of the corporation, does not count toward a quorum, and does not vote. The Board shall seek, and give substantial weight to, the Band Director's guidance on all Program matters as provided in Article III.
+
+**Number.** The number of Directors is five (5). The corporation shall at all times have at least three (3) Directors, as required of a 501(c)(3) corporation by section 617.0803, Florida Statutes.
+
+**Quorum and Voting.** A majority of the Directors then in office constitutes a quorum. The affirmative vote of a majority of the Directors present at a meeting at which a quorum exists is the act of the Board, except where these Bylaws require a greater vote.
+
+**Meetings and Notice.** The Board shall meet at least quarterly. Regular meetings may be held according to a schedule adopted annually by the Board, in which case no further notice is required. Special meetings of the Board may be called by the President or by any two (2) Directors on at least two (2) days' notice of the date, time, and place. Directors may participate in any meeting by any means of communication by which all participants may simultaneously hear one another, and participation by such means constitutes presence in person.
+
+**Action Without a Meeting.** Any action required or permitted to be taken at a Board meeting may be taken without a meeting if the action is set out in a written consent, which may be signed electronically, describing the action taken and signed by all Directors, as provided by section 617.0821, Florida Statutes.
+
+**Attendance.** The Board may declare vacant the seat of a Director who has been absent without excuse from three (3) consecutive regular Board meetings, by majority vote of the Directors then in office, after written notice to that Director and an opportunity to be heard.
+
+**Standards of Conduct; Reliance.** Directors shall discharge their duties in accordance with section 617.0830, Florida Statutes, and Officers in accordance with section 617.0844, Florida Statutes, including an Officer's duty to inform the Board of material information and of any actual or probable material violation of law or material breach of duty. Directors and Officers may rely on information, opinions, reports, and statements as permitted by those sections.
+
+**Directors and Officers List.** The Secretary shall maintain the list of the corporation's current Directors and Officers and their addresses required by section 617.1601(1)(f), Florida Statutes.
 
 ## Article IX – Amendments
 
