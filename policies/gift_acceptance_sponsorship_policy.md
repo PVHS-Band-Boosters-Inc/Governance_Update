@@ -13,9 +13,11 @@ Cash and cash equivalents; publicly documented in-kind goods and services useful
 
 ## 3. Acknowledgments (IRC §170(f)(8))
 
-The Treasurer issues a written acknowledgment for every gift of $250 or more, stating the amount (or description of property, without valuation) and whether goods or services were provided in return, with a good-faith estimate of their value. For fundraising events, quid pro quo notices state the deductible portion where the payment exceeds $75. Acknowledgments go out within 30 days and by January 31 for the prior calendar year.
+The Treasurer issues a written acknowledgment for every gift of $250 or more, stating the amount (or description of property, without valuation) and whether goods or services were provided in return, with a good-faith estimate of their value. For fundraising events, quid pro quo notices state the deductible portion for payments **in excess of $75** (IRC §6115). The acknowledgment threshold is contributions of **$250 or more**; the two are worded differently and neither is indexed. Acknowledgments go out within 30 days and by January 31 for the prior calendar year.
 
-**Not every payment to the corporation is a gift.** Dues, fair share, assessments, trip payments, and fees paid for the benefit of the payer's own student are payments for goods and services and are generally not deductible; the corporation does not acknowledge them as charitable contributions and no Officer or volunteer may represent that they are (Fundraising and Federal Tax Compliance Policy §4). Where a single payment covers both a fee and a gift, the acknowledgment separates them.
+**Not every payment to the corporation is a gift.** Dues, fair share, assessments, trip payments, and fees paid for the benefit of the payer's own student are deductible only to the extent they exceed the fair market value of the return benefits received, which as a practical matter means not at all; the corporation does not acknowledge them as charitable contributions and no Officer or volunteer may represent that they are (Fundraising and Federal Tax Compliance Policy §4). Where a single payment covers both a fee and a gift, the acknowledgment separates them.
+
+Donor-side deduction rules changed for tax years beginning in 2026 (non-itemizer deduction; 0.5%-of-AGI floor for itemizers; 35% cap on the value of itemized deductions in the top bracket). The corporation's acknowledgments state facts about the transaction only and never predict a donor's tax result.
 
 ## 4. Sponsorships: Acknowledgment vs. Advertising (IRC §513(i))
 
