@@ -87,49 +87,15 @@ Officers shall not be compensated by the PVHS Band Boosters, nor shall they rece
 
 **Fiscal Year.** The fiscal year of the corporation begins July 1 and ends June 30.
 
-## Article VII – Committees and Duties
+## Article VII – Committees and Individual Positions
 
-Executive Committee: Oversees all business and activities of the Band Boosters. This Committee shall be led by the President.
+**Establishment.** The Board may establish committees and individual positions as needed for the oversight and conduct of specific Program activities and administrative functions. The Board may by resolution designate the specific committees and individual positions, their duties, and — where a committee's function corresponds to an Officer's Article V duties — the Officer who chairs it. Committee chairs and individual-position holders are not Officers or Directors of the corporation under Article V.
 
-Budget and Finance Committee: Oversees the budget and all financial needs of the Boosters in support of Program. This Committee shall be led by the Treasurer.
+**Chairs and Reporting.** Each committee shall have a chair. Each committee chair and each individual-position holder shall serve at the direction of, and report to, a Director designated by the Board, and, on Program matters, in coordination with the Band Director as provided in Article III.
 
-Fundraising Committee: Oversees all fundraising activities and sponsorships of the Band and Color Guard. This Committee shall be led by the Vice President of Fund Raising.
+**Membership; Continuity.** Committees may include any Member of the corporation. The Board may create, combine, rename, or discontinue committees and individual positions by resolution as circumstances require, without amendment of these Bylaws. The Board's current committee and position roster, duties, and chair assignments are maintained in the Committees and Individual Positions Policy.
 
-Props Committee: Works in conjunction with Band Director for the creation of the props for the Band and Color Guard. This Committee shall be led by the VP of Operations.
-
-Friday Night Lights Committee: Oversees the needs of the Band for Friday night football games and set up of all Band equipment in the stadium. Must work with the PVHS Athletic Director and custodial staff for set up of Band food tent, seating and game day needs.
-
-Winter Guard and Indoor Percussion Committee: Oversees all needs and events of the Winter Guard and Indoor Percussion regiments of the Band including uniforms, props, travel, etc.
-
-Transportation Committee: Oversees all transportation needs of the PVHS Band and Color Guard Programs.
-
-Food and Beverages Committee: Oversees all food and beverage needs of the Band and Color Guard and for pregame (Friday Nights) meals, competitions, or other events.
-
-Uniform Committee: Oversees all uniform needs of the Band and Color Guard programs during marching season.
-
-Volunteer Committee: Organizes all volunteer needs for Band events.
-
-Equipment and Instrument Committee: Ensures that all equipment and instruments are in good working order and repair, and we maintain all rental agreements and safe return of all rented instruments at the end of the year.
-
-Banquet Committee: Oversees and coordinate the end-of-year Banquet.
-
-Media Day Committee: Oversees all Media Day needs at the beginning of the School Year.
-
-Social Media Committee: Maintains PVHS social media accounts.
-
-Alumni Coordinator: Maintains the alumni database and invitations to alumni for band events.
-
-Membership Committee: Maintains a list of the Band Booster membership.
-
-Newsletter Committee: Maintains the Band newsletter and work with the Membership Committee to make sure all information regarding the Band reaches its membership.
-
-Nominations Committee: Oversee the nominations and election of officers each year.
-
-Middle School Liaison: Work with the Band Director in special events for the local Middle Schools and aid in the communication with Rising 9th Graders and their parents.
-
-Senior Committee: Oversee all Senior activities and needs.
-
-Additional committees may be created by the Booster Board as needed. All Committees not specifically led by an Officer as listed above may be led by a Member of the PVHS Band Boosters.
+**Restrictions Apply Equally.** Committee chairs, committee members, and individual-position holders are subject to the same restrictions as Officers under Article V's prohibition on compensation and vendor gratuities, and to Article XI's conflict-of-interest disclosure, recusal, and documentation requirements.
 
 ## Article VIII – Board of Directors
 
@@ -161,11 +127,11 @@ In the event of the dissolution of the PVHS Band Boosters, the residual funds an
 
 ## Article XI – Conflicts of Interest
 
-**Policy.** Conflicts of interest are not inherently prohibited, but they must be disclosed and managed as this Article and section 617.0832, Florida Statutes, provide. Directors, Officers, and committee chairs owe their loyalty in Booster matters to the corporation and the Program as a whole.
+**Policy.** Conflicts of interest are not inherently prohibited, but they must be disclosed and managed as this Article and section 617.0832, Florida Statutes, provide. Directors, Officers, committee chairs, committee members, and individual-position holders owe their loyalty in Booster matters to the corporation and the Program as a whole.
 
 **Definitions.** "Conflict-of-interest transaction," "material interest," "material relationship," "qualified director," and "family member" have the meanings given in sections 617.0143 and 617.0832, Florida Statutes.
 
-**Procedure.** Before the corporation enters into any transaction in which a Director, an Officer, the Band Director, or a family member of any of them has a direct or indirect material interest:
+**Procedure.** Before the corporation enters into any transaction in which a Director, an Officer, a committee chair, a committee member, an individual-position holder, the Band Director, or a family member of any of them has a direct or indirect material interest:
 
 1. The interested person shall disclose to the Board all material facts of the transaction and of his or her interest;
 2. The interested person shall recuse himself or herself from Board deliberation and from the vote (recusal from the vote is mandatory; the Board may invite the interested person to answer questions before deliberation);
@@ -174,9 +140,9 @@ In the event of the dissolution of the PVHS Band Boosters, the residual funds an
 
 The disclosure, the recusal, the comparability information, and the vote shall be recorded in the minutes.
 
-**Annual Disclosure.** Each Director and Officer shall complete the annual disclosure statement provided in the Conflict of Interest Policy adopted by the Board, at the start of each term and upon any material change.
+**Annual Disclosure.** Each Director, Officer, committee chair, and individual-position holder shall complete the annual disclosure statement provided in the Conflict of Interest Policy adopted by the Board, at the start of each term and upon any material change. Ordinary committee members are not required to sign the annual statement, but remain bound by the Procedure above whenever they are party to, or aware of, a transaction in which they have a material interest.
 
-**Prohibited Regardless of Disclosure.** The corporation shall not make loans to its Directors or Officers (section 617.0833, Florida Statutes). Officers and Directors shall not accept gratuities, perquisites, or gifts from proposed or current vendors (Article V).
+**Prohibited Regardless of Disclosure.** The corporation shall not make loans to its Directors or Officers (section 617.0833, Florida Statutes). Officers, Directors, committee chairs, committee members, and individual-position holders shall not accept gratuities, perquisites, or gifts from proposed or current vendors (Article V).
 
 **Effect.** A transaction authorized in conformity with this Article and section 617.0832, Florida Statutes, is not void or voidable by reason of the interest, and the interest is not grounds for sanction, as provided by that section.
 
