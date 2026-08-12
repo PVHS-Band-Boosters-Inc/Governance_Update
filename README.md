@@ -7,6 +7,18 @@
 - `bylaws.md` — proposed Amended and Restated Bylaws. **Read the git history:** the first commit is the current bylaws verbatim; every commit after it is one amendment with its statutory driver and reasoning in the commit message (`git log -p bylaws.md`).
 - `articles_of_incorporation_RESTATED_DRAFT.md` — restated Articles curing the federal organizational-test defect (no dissolution clause in the 2012 Articles; Florida is not a Rev. Proc. 82-2 state). **This is the highest-stakes document in the package.**
 - `policies/` — ten board policies, one commit each, rationale in each commit message. The District Relations and Facilities policy operationalizes the St. Johns County School District's *Guidelines for School Support Organizations*, which the bylaws (Art. XVI) now incorporate. The Fundraising and Federal Tax Compliance policy carries the federal layer — private benefit, deductibility, unrelated business income, gaming, and public disclosure — which the rest of the package touched only glancingly.
+- `reference/` — **not adopted.** Explanatory material supporting the policies: `fundraising_commentary.md` (authorities, case facts, reasoning) and `schedule_of_figures.md` (every dollar threshold and rate, maintained by the Treasurer). See `reference/README.md` for why these are separate.
+
+### What gets adopted, and what does not
+
+| | Adopted by | Changed by |
+|---|---|---|
+| `articles_of_incorporation_RESTATED_DRAFT.md` | Members (or board — see step 4) + state filing | Same |
+| `bylaws.md` | Members | Members (Art. IX) |
+| `policies/*.md` | Board resolution | Board resolution |
+| `reference/*.md` | **Nobody — explanatory only** | Treasurer or any Officer, no Board action |
+
+The last row is the point of the split. An adopted policy is a corporate instrument, and everything in it — including any characterization of case law — is adopted with it. Those characterizations carry error risk that operative rules do not, and the figures they rest on are now indexed annually. Keeping both out of the adopted text means a correction is an edit, not a resolution.
 
 ### Three layers of law, three enforcement paths
 
@@ -14,7 +26,7 @@ The package addresses obligations that come from different places and are enforc
 
 ## Adoption sequence (recommended)
 
-1. **Now, board only (unanimous written consent of all five/six Booster Board members):** adopt the ten policies. Two caveats. The Conflict of Interest Policy's approval safe harbor (its §6) is dormant until step 3 — the current Bylaws Article XI prohibition controls until members replace it. And the Fundraising and Federal Tax Compliance Policy is adoptable and effective now, but its central rule is only as durable as the board that adopted it until Bylaws Article XVII is ratified at step 3.
+1. **Now, board only (unanimous written consent of all five/six Booster Board members):** adopt the ten policies in `policies/`. **Do not adopt anything in `reference/`** — receive it and note it in the minutes instead. Two caveats. The Conflict of Interest Policy's approval safe harbor (its §6) is dormant until step 3 — the current Bylaws Article XI prohibition controls until members replace it. And the Fundraising and Federal Tax Compliance Policy is adoptable and effective now, but its central rule is only as durable as the board that adopted it until Bylaws Article XVII is ratified at step 3.
 2. **Now, no vote needed:** confirm D&O insurance; verify Sunbiz filing history (any post-2012 articles amendments?), registered agent, and FDACS Ch. 496 registration status. Also: have the Treasurer review whether past raffles or drawings satisfied §849.0935, Fla. Stat., and post the last three Form 990 returns and the exemption application for public inspection under IRC §6104(d) if they are not already up.
 3. **Member action:** adopt the restated bylaws — either at a General Meeting under current Article IX (Executive Committee review → 14 days' notice → two-thirds of members present; note the current clause has no quorum, which is itself a reason to prefer the next option) or by **written consent under §617.0701(4)** (two-thirds of all members), which moots any meeting-validity challenge. Target: adopted before the April annual election so incoming officers take office under the new structure.
 4. **Articles:** adopt the restated Articles per §617.1002 (counsel question: §617.1002(2) may permit board-only adoption since members are not expressly entitled to vote on articles amendments) and file with the Department of State.
@@ -36,8 +48,11 @@ Three operational policies remain deliberately undrafted: **child safety / chape
 
 ## Figures that move
 
-The Fundraising and Federal Tax Compliance Policy states dollar thresholds and rates: the §4958 excise rates and the $20,000 manager cap; the **$2,000** Form W-2G reporting threshold for 2026 (with the 300× multiple), now indexed annually; the 24% gambling and backup withholding rates and the $5,000 withholding trigger; the $1,000 Form 990-T trigger; the $75 and $250 acknowledgment thresholds; and the $2,000 information-return threshold effective for payments after 12/31/2025 under OBBBA §70433. Each carries a duty to re-confirm before use, and the annual compliance calendar in that policy §9 assigns it.
+Every dollar threshold and rate the package depends on now lives in one file: **`reference/schedule_of_figures.md`**, sorted by how each figure behaves — indexed annually (re-check every year), statutory and stable, donor-side informational, and the corporation's own internal limits. It carries an as-of date, a change log, a next-review trigger, and an express instruction that the underlying source controls over the Schedule. The Treasurer maintains it **without Board action**; Fundraising Policy §12 says so explicitly, and Policy §9 puts the annual update on the compliance calendar.
 
-Two cautions the board should inherit. First, **IRS publications on irs.gov are not necessarily current** — Publication 3079 is revised 10-2018 and still shows the old $600 W-2G threshold; the first draft of this package repeated it, and the error was caught only on adversarial re-check against the 01/2026 instructions (see commit `Corrections after adversarial verification`). Use the current-year form instructions, not the topic publication. Second, penalty amounts are deliberately **not** recited anywhere in the package, because they are inflation-adjusted annually and a document that names them is wrong within a year.
+Two cautions the board should inherit:
 
-Verified in August 2026 against: the Capital Gymnastics opinion text; PMTA 2011-04 (POSTS-117415-10); the Instructions for Forms W-2G and 5754 (rev. 01/2026); 26 U.S.C. §§170, 513, 4958, 6041, 6104, 6115; Treas. Reg. §§1.501(c)(3)-1(d)(1)(ii), 53.4958-3(c); and the text of §849.0935, Fla. Stat. (last substantively amended 2013).
+1. **IRS publications on irs.gov are not necessarily current.** Publication 3079 is the natural place to look up raffle rules, is revised 10-2018, and still shows the old $600 Form W-2G threshold. The first draft of this package repeated it; the error was caught only on adversarial re-check against the 01/2026 form instructions (commit `Corrections after adversarial verification`). Use current-year *form instructions*, not topic publications.
+2. **Penalty amounts appear nowhere in the package**, deliberately. They are inflation-adjusted annually, and a document reciting them reads as authoritative while being wrong within a year.
+
+Verified in August 2026 against: the Capital Gymnastics opinion text; PMTA 2011-04 (POSTS-117415-10); the Instructions for Forms W-2G and 5754 (rev. 01/2026); 26 U.S.C. §§170, 513, 4958, 6041, 6104, 6115; Treas. Reg. §§1.501(c)(3)-1(d)(1)(ii), 53.4958-3(c); and the text of §849.0935, Fla. Stat. (last substantively amended 2013). Sources of record are listed at the end of `reference/fundraising_commentary.md`.
