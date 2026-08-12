@@ -13,17 +13,17 @@ Cash and cash equivalents; publicly documented in-kind goods and services useful
 
 ## 3. Acknowledgments (IRC §170(f)(8))
 
-The Treasurer issues a written acknowledgment for every gift of $250 or more, stating the amount (or description of property, without valuation) and whether goods or services were provided in return, with a good-faith estimate of their value. For fundraising events, quid pro quo notices state the deductible portion for payments **in excess of $75** (IRC §6115). The acknowledgment threshold is contributions of **$250 or more**; the two are worded differently and neither is indexed. Acknowledgments go out within 30 days and by January 31 for the prior calendar year.
+The Treasurer issues a written acknowledgment for every gift at or above the IRC §170(f)(8) threshold, stating the amount (or description of property, without valuation) and whether goods or services were provided in return, with a good-faith estimate of their value. For fundraising events, quid pro quo notices state the deductible portion for payments above the IRC §6115 threshold. Both thresholds are in `reference/schedule_of_figures.md`; they are worded differently ("in excess of" versus "or more") and neither is indexed. Acknowledgments go out within 30 days and by January 31 for the prior calendar year.
 
 **Not every payment to the corporation is a gift.** Dues, fair share, assessments, trip payments, and fees paid for the benefit of the payer's own student are deductible only to the extent they exceed the fair market value of the return benefits received, which as a practical matter means not at all; the corporation does not acknowledge them as charitable contributions and no Officer or volunteer may represent that they are (Fundraising and Federal Tax Compliance Policy §4). Where a single payment covers both a fee and a gift, the acknowledgment separates them.
 
-Donor-side deduction rules changed for tax years beginning in 2026 (non-itemizer deduction; 0.5%-of-AGI floor for itemizers; 35% cap on the value of itemized deductions in the top bracket). The corporation's acknowledgments state facts about the transaction only and never predict a donor's tax result.
+Donor-side deduction rules changed for tax years beginning in 2026. The corporation's acknowledgments state facts about the transaction only and never predict a donor's tax result; the current figures are listed for information in `reference/schedule_of_figures.md` block C.
 
 ## 4. Sponsorships: Acknowledgment vs. Advertising (IRC §513(i))
 
 Sponsor recognition **may** include: the sponsor's name, logo, location, telephone, website link, and value-neutral descriptions of its products or services. Sponsor recognition **may not** include: qualitative or comparative language ("the best...", "official pizza of..."), price information, endorsements, or calls to action ("visit ... today!"). Recognition that crosses the line is advertising and generates unrelated business taxable income; the Treasurer tracks any such arrangements separately and reports to the Board before renewal. Sponsorship amounts contingent on attendance, ratings, or sales are not accepted. Any use of the school's name, logo, mascot, or trademark in sponsorship or fundraising materials is covered by the Principal's annual written authorization (Bylaws Art. XVI; District Relations Policy §2), and materials for events on school property respect the District's exclusive beverage vendor arrangement.
 
-Section 513(i) is one exclusion among several. Concessions, spirit-wear sales, vendor nights, and the online store are screened separately under the unrelated-business analysis in the Fundraising and Federal Tax Compliance Policy §5, and unrelated business gross income of $1,000 or more in a year triggers Form 990-T.
+Section 513(i) is one exclusion among several. Concessions, spirit-wear sales, vendor nights, and the online store are screened separately under the unrelated-business analysis in the Fundraising and Federal Tax Compliance Policy §5; the Form 990-T filing trigger is in `reference/schedule_of_figures.md`.
 
 ## 5. Valuation of In-Kind Gifts
 
