@@ -198,6 +198,8 @@ The disclosure, the recusal, the comparability information, and the vote shall b
 
 **Board Sets Amounts.** As permitted by section 617.0604(3), Florida Statutes, the Board shall fix the amount, categories, and method of collection of dues and assessments by resolution not less than annually. Dues and assessments shall be imposed on the same basis on similarly situated members.
 
+**Uniformity; No Fundraising Offset.** Dues and assessments are payments for the Program year. They shall not be reduced, credited, or offset by reference to the amount any individual member or family raised, solicited, or worked, as provided in Article XVII.
+
 **Hardship; No Exclusion.** The Board shall adopt and publish hardship-waiver criteria. No student shall be excluded from Program participation supported by the corporation solely because of a family's demonstrated inability to pay.
 
 **Enforcement.** Collection may be enforced by reasonable means adopted by the Board, after written notice to the member and an opportunity to be heard as required by section 617.0607, Florida Statutes. Nonpayment does not terminate membership and does not affect any right of a member that the corporation may not limit under chapter 617, Florida Statutes.
@@ -227,3 +229,17 @@ If any provision of these Bylaws is held invalid or unenforceable, the remaining
 **Compliance.** The corporation shall comply with applicable law, School Board rules, the District's Guidelines, and the Principal's instructions — including facility-use, fundraising-approval, beverage-vendor-exclusivity, and alcohol restrictions — and shall ensure that individuals with disabilities have equal access to participate in its activities and events.
 
 **Loss of Authorization.** If the corporation's authorization is revoked and not restored on appeal, the corporation shall amend its Articles of Incorporation and these Bylaws to change its name so as not to indicate any affiliation with the school, as the Guidelines require.
+
+## Article XVII – Fundraising; Use of Charitable Funds
+
+**Proceeds Are Corporate Funds.** All money and property raised, solicited, donated, or earned in the corporation's name are the corporation's funds, held for its charitable and educational purposes, and applied to the Program as a whole.
+
+**No Individual Fundraising Credits.** The corporation shall not credit fundraising proceeds to individual students, members, or families in proportion to their fundraising participation; shall not maintain individual student accounts funded by fundraising proceeds; and shall not reduce any individual member's or family's dues, assessments, fees, or trip costs by reference to the amount that member or family raised, solicited, or worked. The corporation may apply proceeds to the general Program budget so as to reduce charges uniformly for all similarly situated members, and may grant need-based waivers and scholarships under criteria published by the Board.
+
+**No Participation Requirement.** No student's participation in, or benefit from, the Program supported by the corporation shall be conditioned on that student's family participating in fundraising.
+
+**Federal Tax Compliance.** These provisions implement the requirement that the corporation be operated exclusively for exempt purposes and serve public rather than private interests. The Board shall adopt and maintain policies governing fundraising, unrelated business activity, information reporting, public disclosure, and games of chance, consistent with this Article.
+
+**Games of Chance.** No raffle, drawing, or other game of chance shall be conducted in the corporation's name, with its funds, or at its events, except on prior written approval of the Board recorded in the minutes and in compliance with section 849.0935, Florida Statutes, and applicable federal reporting and withholding requirements.
+
+**Amendment.** This Article may be amended only by the members in the manner provided in Article IX. No resolution or policy of the Board may vary its terms.
