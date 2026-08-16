@@ -35,7 +35,8 @@ The package addresses obligations that come from different places and are enforc
 
 | Choice | Where | Alternative |
 |---|---|---|
-| Board = the 5 elected Officers; Band Director non-voting advisor | Bylaws Art. VIII | Add at-large directors; or seat the Band Director as a voting director (not recommended — dual-duty and conflict problems) |
+| Board = the 5 elected Officers **plus up to 2 member-elected At-Large Directors** (seats always on the ballot; unfilled if nobody runs; never filled by the Board); Band Director non-voting advisor | Bylaws Art. VIII | Revert to Officers-only; or seat the Band Director as a voting director (not recommended — dual-duty and conflict problems) |
+| Board may remove an At-Large Director for cause, but the removal goes to the members for ratification automatically | Art. VIII | Members-only removal of At-Large Directors (stronger oversight independence, slower); or Board removal with only the demand-driven backstop |
 | Member quorum 10% | Art. IV | Any figure; statute supplies none |
 | Proxies prohibited | Art. IV | Permit limited proxies (statutory default: permitted, 11-month validity) |
 | Removal: 2/3 of votes cast | Art. V | Statutory default: bare majority, with or without cause |
