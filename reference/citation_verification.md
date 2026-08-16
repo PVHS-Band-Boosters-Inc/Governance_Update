@@ -1,125 +1,140 @@
 # Statutory Citation Verification — Chapter 2026-168 (HB 797)
 ### PVHS Band Boosters, Inc. — **not adopted.** Working record for counsel review.
 
-**Prepared 16 August 2026.** This file is explanatory material under `reference/`. Nothing in it is adopted, and it creates no obligation.
+**Rev. 2 — 16 August 2026.** Explanatory material under `reference/`. Nothing here is adopted and it creates no obligation.
 
 ---
 
-## Why this exists
+## Method, and a correction to how Rev. 1 was produced
 
-Every Chapter 617 citation in this package was checked against the codified statute pages at `leg.state.fl.us`. Those pages are headed **"The 2025 Florida Statutes"** and carry no notice about the 2026 session — a fact independently observed by the corporation's Secretary in August 2026 and confirmed directly on 16 August 2026 by fetching the page for s. 617.0831.
+Every Chapter 617 citation in this package was originally checked against the codified statute pages at `leg.state.fl.us`. Those pages are headed **"The 2025 Florida Statutes"** and carry no notice about the 2026 session — observed by the corporation's Secretary in August 2026 and confirmed directly on 16 August 2026.
 
-That is expected behavior, not a malfunction: Florida publishes a new codified edition in the fall, so between July 1 and the fall publication the online statutes lag the law in force. The practical consequence is that **no amount of re-checking the codified pages would have surfaced a single one of the changes below.** The verification had to run against the session law itself.
+That lag is expected: Florida publishes a new codified edition in the fall, so between July 1 and publication the online statutes trail the law in force. **The failure mode is not an error message. It is a confident, correct answer for a superseded year.**
 
-**Ch. 2026-168 (CS/CS/HB 797) was approved by the Governor 25 June 2026 and took effect 1 July 2026** — six weeks before this package was drafted. It comprehensively revises ch. 617.
+**Ch. 2026-168 (CS/CS/HB 797) was approved 25 June 2026 and took effect 1 July 2026** — six weeks before this package was drafted.
+
+**Rev. 1 of this file reported eleven items as UNVERIFIED. Nearly all of them were already verified.** The board's own *Governance Review Under the Florida Nonprofit Corporation Act* (Rev. 3, 4 August 2026) had verified the load-bearing quotations **against rendered page images of the enrolled bill** — the only reliable method, because plain-text extraction of an amendatory bill flattens strikethrough and underline together and silently merges deleted text with enacted text. Rev. 1 attempted to re-derive that work from automated retrieval, hit the extraction ceiling, and reported the resulting gaps as open questions. They were not open. Rev. 2 reads the register off the governance review's verified text.
+
+**Practical lesson worth keeping:** for this statute, the governance review is the verified source of record. Check it before re-deriving anything.
 
 ## Confidence key
 
-- **[CONFIRMED]** — verified against the session law text or the bill's own enacting language, from two sources where noted.
-- **[LIKELY]** — supported by the bill's enacting language or by two independent professional summaries, but the operative statutory text was not retrieved.
-- **[UNVERIFIED]** — the section is known to be amended or created, but the specific subsection or proposition the package relies on was not confirmed. **These are the items for counsel.**
-
-A note on why so much is UNVERIFIED: the enrolled bill runs long enough that automated retrieval could not reach its operative text, and `laws.flrules.org` returned the enacting clauses but not the full statutory language. The gaps below are gaps in *this* verification, not evidence that the package is wrong. Counsel with a current annotated Chapter 617 will close each in minutes.
+- **[VERIFIED]** — read from the enrolled bill, in most cases against page images showing the strike/underline coding.
+- **[RESIDUAL]** — the section is verified but one pinpoint subsection number or narrow proposition was not separately confirmed.
 
 ---
 
 ## 1. Confirmed defect — must be fixed
 
-### s. 617.0822 is REPEALED
+### s. 617.0822 is REPEALED; notice moved to s. 617.0820(5)–(6)
 
-**[CONFIRMED — two sources: the session law's own repealer clause, and the Foley & Lardner client alert]**
+**[VERIFIED]**
 
-Ch. 2026-168 repeals s. 617.0822 outright. Bylaws **Article VIII, "Meetings and Notice"** currently reads:
+Bylaws **Article VIII, "Meetings and Notice"** reads:
 
 > "...at least two (2) days' notice of the date, time, and place shall be given to each Director — **notwithstanding the default under section 617.0822, Florida Statutes**, that regular board meetings may otherwise be held without notice of the date, time, place, or purpose."
 
-That sentence cites a statute that no longer exists, and characterizes a default that no longer sits where it says.
+The proposition is right; the citation is dead. Under Ch. 2026-168:
 
-**Where the rule went:** board meeting notice is now governed by **s. 617.0820**, which Ch. 2026-168 amends — the enacting language reads "amending s. 617.0820, F.S.; revising the criteria for when meetings of the board," and the session law describes the amended section as requiring that "special meetings of the board of directors be preceded by a certain amount of notice of the date, time, and place of the meeting." **[CONFIRMED that notice now lives in 617.0820; [UNVERIFIED] as to the exact notice period and whether bylaws may vary it.]**
+- **s. 617.0820(5):** regular meetings *"may be held without notice of the date, time, place, or purpose."*
+- **s. 617.0820(6):** special meetings require **two days'** notice; purpose need not be stated.
 
-**The drafted rule itself is unaffected.** Article VIII independently requires two days' notice; only the explanatory cross-reference is wrong. The fix is to the citation, not the governance.
+**Fix:** replace "617.0822" with "617.0820(5)". The drafted two-day rule for regular meetings is a departure from s. 617.0820(5), and remains a valid one.
 
-### Correction to earlier advice given to the board
+### Correction to advice previously given the board
 
-Earlier in this drafting process, the HB 797 governance review in the board's project files was flagged as containing a citation error: it cited **s. 617.0820(5)/(6)** for board meeting notice, and was told the correct section was **s. 617.0822**.
+The governance review cited **s. 617.0820(5)/(6)** for board meeting notice. During this drafting process it was told that was an error and the correct section was **s. 617.0822**.
 
-**That correction was wrong.** Under the law actually in force since 1 July 2026, s. 617.0822 is repealed and notice sits in s. 617.0820 — which is where the governance review had it. The "correction" moved a citation from right to wrong, and it did so because it was verified against a 2025 codification while purporting to describe current law. The governance review's original citation should be restored.
-
----
-
-## 2. High-risk — a drafted provision may depend on a default that changed
-
-### s. 617.0821 — action by directors without a meeting
-
-Bylaws **Article VIII, "Action Without a Meeting"** permits board action on the written consent of a **majority** of Directors, expressly "notwithstanding the default under section 617.0821 ... that such action otherwise requires the consent of all Directors." That drafting choice was made deliberately by the board, on the understanding that the statute sets unanimity as a default the bylaws may vary.
-
-**What is confirmed:** s. 617.0821 is amended. Its enacting language: *"requiring that actions taken without a meeting be delivered to the corporation; revising when certain action taken is effective; providing that a director's consent may be withdrawn by a revocation signed by the director and delivered to the corporation before delivery to the corporation of certain unrevoked written consents."* **[CONFIRMED]**
-
-**What is not confirmed, and matters most:** whether the amended section still permits the articles or bylaws to authorize a number **less than all** directors. **[UNVERIFIED]**
-
-If that flexibility was removed, Article VIII's majority-consent provision is not merely suboptimal — it is **void**, and any action the board takes under it is exposed. This is the single highest-consequence open item in the package.
-
-Two secondary indicators, neither sufficient: one professional summary describes the new regime as "unanimous written consent for board action with revocation rights," implying unanimity survives as the baseline; and the bill's title language, which under Florida practice must state the substance of what is changed, says nothing about altering bylaw-variation authority. **[INFERENCE — reasoning: Florida's single-subject and title requirements make a silent removal of bylaw-variation authority less likely, but title language is not a safe basis for a governance provision the board will actually rely on.]**
-
-**Two conforming changes are needed regardless of how that resolves:**
-
-1. The amended section requires consent to be **delivered to the corporation**. Article VIII specifies delivery **to the Secretary**. Probably equivalent, but worth conforming.
-2. The amended section creates a **director's right to revoke consent** before all unrevoked consents are delivered. Article VIII is silent on revocation. The statutory right exists whether or not the bylaws mention it; a director reading only the bylaws would not know it.
-
-### s. 617.0809 — board vacancies, and the At-Large seats
-
-Not cited in the bylaws, but newly relevant. Amended s. 617.0809 reportedly permits the **board to fill a vacancy after three months if the members fail to elect a successor**. **[LIKELY — from the House staff analysis]**
-
-Article VIII as drafted says an unfilled or vacated At-Large position "shall not be filled by the Board" and remains empty until the next annual meeting. That was a deliberate design decision — the members control whether the oversight seats are occupied, and the board cannot appoint its own overseers.
-
-Whether the bylaws may displace a statutory board-fill authority is **[UNVERIFIED]** and is a real question for counsel. If s. 617.0809's three-month rule is mandatory, the At-Large safeguard is weaker than intended.
+**That "correction" was wrong and should be disregarded.** Both citations were right for their own moment: pre-2026, notice sat in s. 617.0822; Ch. 2026-168 repealed it and placed the same rules in s. 617.0820(5)–(6). The correction applied 2025 law to a document describing 2026 law — the precise error the Secretary warned about. **The governance review's original citation stands.**
 
 ---
 
-## 3. Citation-by-citation register
+## 2. Resolved — the item Rev. 1 called highest-risk
 
-| Citation | Where used | Status under Ch. 2026-168 | Assessment |
+### s. 617.0821 — board action without a meeting
+
+Article VIII permits board action on written consent of a **majority** of Directors, expressly departing from the statutory unanimity default. Rev. 1 flagged this as possibly **void** if the 2026 act had removed the bylaws' authority to vary.
+
+**It did not. [VERIFIED]** Ch. 2026-168 leaves s. 617.0821 as a default: **unanimous written consent, revocable before all consents are delivered.** The governance review's catalogue of provisions that **cannot** be overridden by articles or bylaws is explicit and closed — three directors for a 501(c)(3); the fiduciary standards of ss. 617.0830 and 617.0844; the conflict framework of s. 617.0832; member inspection rights under s. 617.1602(6); and derivative-proceeding rights under ss. 617.0741–617.0747. **s. 617.0821 is not among them.**
+
+The pre-2026 section opened *"Unless the articles of incorporation or the bylaws provide otherwise"* [VERIFIED against the 2025 text], and the bill's enacting clause describes only three changes — delivery to the corporation, when action is effective, and a new revocation right. It says nothing about the variation authority. **Article VIII's majority-consent provision is sound.**
+
+**Two conforming changes are still needed:**
+
+1. The amended section requires consent **delivered to the corporation**; Article VIII says delivered **to the Secretary**. Probably equivalent; worth conforming.
+2. The amended section gives each director a **right to revoke** consent before all unrevoked consents are delivered. Article VIII is silent. The right exists regardless — a director reading only the bylaws would not know it.
+
+### s. 617.0809 — vacancies, and the At-Large seats
+
+Rev. 1 relayed, from a House staff analysis, that the board may fill a vacancy after three months where members fail to elect, and flagged this as a possible conflict with the new rule that At-Large seats are never filled by the Board. **That relay was unreliable.** [VERIFIED] s. 617.0809(1) provides that vacancies are filled by *"a majority of the remaining directors in office, even if the remaining directors constitute less than a quorum"* — the former alternatives, including the members and the circuit court, were **stricken**. Replacement's term ends at the next annual meeting (s. 617.0809(3)).
+
+s. 617.0809 is a **default**, not a mandatory rule, and is absent from the non-overridable list. **The At-Large no-fill design is valid.**
+
+---
+
+## 3. Citation register
+
+| Citation | Where used | Status | Assessment |
 |---|---|---|---|
-| **617.0822** | Bylaws Art. VIII | **REPEALED** [CONFIRMED] | **Defect — fix to 617.0820** |
-| **617.0821** | Bylaws Art. VIII | Amended [CONFIRMED] | **High risk — see §2** |
-| **617.0820** | (not cited; should be) | Amended; now holds meeting notice [CONFIRMED] | Adopt as the replacement citation |
-| **617.0809** | (not cited) | Amended [LIKELY] | May conflict with At-Large no-fill rule |
-| 617.0143 | Bylaws Arts. XI, XII; COI Policy | **Created by this act** [CONFIRMED] | Correct. Defines "qualified director," cross-referencing 617.0744, 617.0832, 617.0831 |
-| 617.0831 | Bylaws Art. XII | Amended/reenacted; still incorporates ss. 607.0850–607.0859 [CONFIRMED via the new 617.0143 cross-reference] | Holds |
-| 607.0850–607.0859 | Bylaws Art. XII | Ch. 607 — untouched by this act [CONFIRMED] | Holds |
-| 617.0803 | Bylaws Art. VIII | Amended; **501(c)(3) corporations still require a minimum of three directors** [CONFIRMED] | Holds. Note non-501(c)(3) nonprofits may now have one director — irrelevant here, but explains why the section moved |
-| 617.0701(3) | Bylaws Art. IV | Amended; special-meeting demand threshold **raised from 5% to 10%** [CONFIRMED] | Substance aligns — the drafted 10% now matches the statutory floor exactly. Subsection number [UNVERIFIED] |
-| 617.0701(4) | Bylaws Arts. IV, IX; README step 3 | Amended; member written-consent framework revised — effective when signed by members holding the required votes **and delivered to the corporation** [LIKELY] | Subsection number [UNVERIFIED]. **Load-bearing:** README step 3 recommends adopting the bylaws by this route |
-| 617.0721 | Bylaws Art. IV (twice) | Amended; proxies and remote voting revised [CONFIRMED] | The Proxies clause asserts "the longer default validity period in s. 617.0721" — the 11-month default. Whether 11 months survives is [UNVERIFIED] |
-| 617.0808 | Bylaws Art. V | Amended; new **judicial removal** remedy; removal rules made uniform across nonprofits [CONFIRMED] | Art. V cites it for 72-hour records turnover; Document Retention Policy cites **617.0808(1)(g)** specifically. Subsection [UNVERIFIED] and at real risk in a rewritten section |
-| 617.0604, **(3)** | Bylaws Art. XIII | Amended; corporations may levy dues, assessments, and fees "to the extent authorized by the articles of incorporation or bylaws" [CONFIRMED] | Art. XIII does authorize, so substance holds. Subsection (3) [UNVERIFIED] |
-| 617.0607 | Bylaws Arts. IV, XIII | Amended; fair-and-reasonable procedure and 1-year challenge window preserved [LIKELY] | Substance holds |
-| 617.0830 | Bylaws Arts. III, VIII | Amended [CONFIRMED]; ordinary-prudent-person standard preserved [LIKELY] | Substance holds |
-| 617.0832 | Bylaws Art. XI (twice) | Amended; **revised conflict-of-interest framework, new defined terms, burden-of-proof provisions** [CONFIRMED] | Art. XI leans on this section heavily and imports its defined terms by reference. Re-verify "conflict-of-interest transaction," "material interest," "material relationship" against the new text |
-| 617.0833 | Bylaws Art. XI | Appears in neither the amended nor the repealed list [LIKELY untouched] | Probably holds |
-| 617.0844, **(6)** | Bylaws Arts. V, VIII; Whistleblower Policy §2 | **Created by this act** [CONFIRMED] — officer standards of conduct, reliance, and duties | Whistleblower Policy §2 is built on **617.0844(6)** and quotes its substance. Subsection (6) [UNVERIFIED] |
-| 617.1601, (1)(f), (2), (3) | Bylaws Arts. IV, V, VI, XIV; Retention Policy | Amended; new 617.16051 created; **three-year minimum retention for core records** [CONFIRMED] | Bylaws and the Retention Policy depend on the **subsection lettering** throughout. [UNVERIFIED] and materially at risk |
-| 617.1602 | Bylaws Art. XIV (twice) | Amended; inspection notice **shortened from 10 days to 5**; **bylaws may not eliminate statutory inspection rights** [CONFIRMED] | Art. XIV's "within the statutory five (5) business days" appears to align, but confirm whether the 5 days are business or calendar |
-| 617.1605(3) | Bylaws Art. XIV | Amended; financial disclosure to members expanded [CONFIRMED] | Subsection (3) [UNVERIFIED] |
-| 617.1002 | README adoption step 4 | Amended [CONFIRMED] | The step-4 question — whether 617.1002(2) permits board-only adoption of restated articles — must be re-answered against the new text |
-| 849.0935 | Bylaws Art. XVII; Gift Acceptance Policy | Ch. 849 — untouched by this act | Holds |
+| **617.0822** | Bylaws Art. VIII | **REPEALED** [VERIFIED] | **Defect — replace with 617.0820(5)** |
+| 617.0820(5), (6) | (should be cited) | Regular meetings: no notice required. Special: 2 days [VERIFIED] | The correct authority for Art. VIII |
+| 617.0821 | Bylaws Art. VIII | Amended; unanimity remains a **default** [VERIFIED] | **Holds** — see §2 |
+| 617.0143 | Bylaws Arts. XI, XII; COI Policy | Created by this act [VERIFIED] | Holds. s. 617.0143(1)(c)3 governs who may authorize indemnification |
+| 617.0831 | Bylaws Art. XII | Pulls in ss. 607.0850–607.0859 [VERIFIED] | Holds |
+| 607.0850–607.0859 | Bylaws Art. XII | Ch. 607 — untouched | Holds |
+| 617.0803 | Bylaws Art. VIII | *"a corporation that is exempt … under s. 501(c)(3) … must have a board of directors that consists of three or more individuals"* [VERIFIED] | Holds exactly as drafted |
+| 617.0701(3) | Bylaws Art. IV | 10% special-meeting demand [VERIFIED] | Holds. Precise pinpoint is **617.0701(3)(a)2** |
+| 617.0701(4) | Bylaws Arts. IV, IX; README step 3 | Member action without a meeting [VERIFIED] | Holds. See §4(G) — the 90-day window is not reflected in the bylaws |
+| 617.0721 | Bylaws Art. IV | Proxies valid **11 months** by default, up to 3 years if stated; electronic signature permitted [VERIFIED] | Holds — Art. IV's "longer default validity period" is accurate |
+| 617.0808 | Bylaws Art. V | 72-hour records turnover at **617.0808(1)(g)**; no reelection until next annual meeting at **(1)(f)**; court enforcement at **(1)(h)** [VERIFIED] | Holds. Note the pre-2026 501(c) carve-out from the removal defaults was **stricken** — these defaults are new law for this corporation |
+| 617.0604(3) | Bylaws Art. XIII | *"A corporation may levy dues, assessments, and fees on its members to the extent authorized in the articles of incorporation or the bylaws"* is **617.0604(2)**; the board may fix amount and method under **617.0604(3)** only where the documents so authorize [VERIFIED] | Holds. Art. XIII's authorization sentence should cite **(2)**; the board-sets-amounts sentence correctly cites **(3)**. See §4(C) |
+| 617.0607 | Bylaws Arts. IV, XIII | Fines or penalties only if authorized in the governing documents, with notice and opportunity to be heard [VERIFIED] | See §4(D) |
+| 617.0830 | Bylaws Arts. III, VIII | Oversight now an **express** duty; reliance protected only absent disqualifying knowledge [VERIFIED] | Holds |
+| 617.0832 | Bylaws Art. XI | Safe harbor at (3)(a) requires qualified-director or disinterested-member approval; (3)(b) otherwise puts the fairness burden on the director [VERIFIED] | Holds — and Art. XI's procedure is what makes the safe harbor reachable |
+| 617.0833 | Bylaws Art. XI | Appears in neither the amended nor repealed list | **[RESIDUAL]** — low risk |
+| 617.0844(6) | Bylaws Arts. V, VIII; Whistleblower Policy §2 | Created; **(6) quoted verbatim** in the governance review — duty to inform the board of material information and of any *"actual or probable material violation of law … or material breach of duty"* [VERIFIED] | Holds. Whistleblower Policy §2 is accurate |
+| 617.1601(1)(f) | Bylaws Art. VIII | Directors-and-officers list [VERIFIED] | Holds |
+| 617.1601(2), (3) | Bylaws Arts. VI, IV | Accounting records; alphabetical member record — both confirmed as contents of 617.1601, pinpoints not separately confirmed | **[RESIDUAL]** |
+| 617.1602 | Bylaws Art. XIV | **617.1602(6):** inspection rights *"may not be abolished or limited by a corporation's articles of incorporation or bylaws"*; (3) tier-2 conditions; (4) confidentiality restrictions permitted; (8) improper-purpose denial [VERIFIED] | Holds. See §4(E) on the 5-business-day framing |
+| 617.1605(3) | Bylaws Art. XIV | **Posting to the website satisfies the obligation** [VERIFIED] | Holds exactly as drafted |
+| 617.1002 | README step 4 | (1)(f) quorum requirement; (2) board-only amendment path [VERIFIED] | Holds; README already reflects it |
+| 849.0935 | Bylaws Art. XVII; Gift Acceptance Policy | Ch. 849 — untouched | Holds |
+
+**Repealed-section sweep.** The act repeals ss. 617.07401, 617.0822, 617.1108, 617.1301, 617.1302, 617.1531, 617.1533, 617.1803, 617.1805, 617.1806, 617.1807, 617.2102. **Only 617.0822 appears anywhere in this package** [VERIFIED by direct search of every `.md` file].
 
 ---
 
-## 4. Two package-wide items
+## 4. What this cross-check surfaced that the package does not yet address
 
-**Terminology.** Ch. 2026-168 renames the act, replacing "not for profit" with "nonprofit" throughout. The README refers to the "Florida Nonprofit Corporation Act" in one place and the "Not For Profit Corporation Act" in another. Cosmetic, but the package should settle on the current name.
+None of these are citation errors. They are places where a verified statutory provision has no counterpart in the drafted documents.
 
-**Repealed sections to sweep for.** The act repeals ss. 617.07401, 617.0822, 617.1108, 617.1301, 617.1302, 617.1531, 617.1533, 617.1803, 617.1805, 617.1806, 617.1807, and 617.2102. Of these, only **617.0822** appears in this package. **[CONFIRMED by direct search of every `.md` file in the repository.]**
+**(A) Board quorum may not match the statute.** s. 617.0824(1) sets quorum at *"a majority of the number of directors **prescribed by the articles of incorporation or the bylaws**."* Article VIII says "a majority of the Directors **then in office**." With At-Large seats that may go unfilled, these can differ: if the bylaws "prescribe" seven and only five serve, the statutory quorum is four while the drafted quorum is three. Article VIII now prescribes a variable number (five, six, or seven according to how many At-Large seats are filled), which is probably self-reconciling — but it should be reconciled deliberately, not by accident, because it decides whether a three-person meeting can act.
+
+**(B) Who may call a special board meeting.** s. 617.0820(3) permits the chair, the president or a similarly situated officer, **or 20% of the directors then in office**, to call a meeting. Article VIII permits the President or **any two Directors**. On a five-member board, 20% is one director — so the bylaw is *more restrictive* than the statutory default. Whether that restriction is permissible needs confirming.
+
+**(C) Dues enforcement may need to live in the bylaws, not in a board policy.** s. 617.0604(4) requires the **governing documents** to provide the means of enforcing collection. Article XIII says collection "may be enforced by reasonable means adopted by the Board" — a delegation rather than a stated means. That may not satisfy the section.
+
+**(D) Fines require express authorization.** s. 617.0607 permits a corporation to levy fines or penalize members **only if authorized in the articles or bylaws**, and only with notice and an opportunity to be heard. Article XIII authorizes neither. If the board ever intends to fine a member, the authority has to be in the bylaws first.
+
+**(E) The on-demand financial statement regime is absent.** Article XIV commits to posting annual financials within 90 days — good practice, and s. 617.1605(3) confirms posting satisfies the obligation. But s. 617.1605 also creates a **member-request** regime: if statements are prepared, **5 business days**; if not, notify within 5 and deliver within **60 days**. And s. 617.1605(6) provides the court *"**shall** order the corporation to pay the member's expenses, including reasonable attorney fees"* — mandatory, not discretionary. The bylaws describe the proactive duty and are silent on the one carrying the fee award.
+
+Related: Article XIV's "within the statutory five (5) business days" is imprecise. The five business days is the **member's minimum advance notice before inspecting**, which functionally sets the response window — not a stated deadline for the corporation.
+
+**(F) Directors have a new inspection right.** s. 617.16051 lets a director inspect records *"at any reasonable time to the extent reasonably related to the performance of the director's duties,"* with court-ordered inspection **at the corporation's expense** plus the director's attorney fees if refused. Nothing in the package mentions it — and it matters more now that the board includes At-Large Directors whose entire function is oversight.
+
+**(G) The 90-day consent window.** s. 617.0701(4)(a) requires member written consents to be gathered within **90 days** of the earliest-dated consent; (4)(b) makes them revocable until the threshold is reached; (4)(f) requires filing with the minutes. README step 3 recommends adopting these bylaws by written consent and does not mention the 90-day clock, which is the binding constraint on that campaign.
+
+**(H) s. 617.0834 immunity is never cited, and Article V is what preserves it.** The statutory immunity for directors and uncompensated officers turns on s. 617.0834(4)(b), which defines "Officer" as one serving *"without compensation except reimbursement for actual expenses."* Article V's no-compensation rule and its ban on vendor gratuities are therefore doing protective work well beyond their apparent subject — the first keeps officers inside the immunity, the second guards the "improper personal benefit" exception that would defeat it. The same now applies to At-Large Directors under Article VIII. Neither provision says so, so a future board could trade them away without knowing what it was giving up. **A cross-reference would make that visible.** [VERIFIED that the 501(c) limitation on this immunity was stricken, so it now covers all Florida nonprofits.]
 
 ---
 
 ## 5. What to hand counsel
 
-The package should go to counsel as "ready for legal review," not "ready for adoption" — the Secretary's framing, which this verification supports rather than softens. Three specific asks, in priority order:
+**The package is ready for legal review, not for adoption** — the Secretary's framing, which this verification supports.
 
-1. **Does amended s. 617.0821 still permit the bylaws to authorize board action by written consent of fewer than all directors?** If not, Article VIII must change before adoption, not after.
-2. **Confirm the subsection numbering** for 617.0701(4), 617.0604(3), 617.0808(1)(g), 617.0844(6), 617.1601(1)(f)/(2)/(3), and 617.1605(3). These are the places where the package cites a specific subsection of a section the act rewrote.
-3. **Does amended s. 617.0809 permit the board to fill a member-elected vacancy after three months notwithstanding a contrary bylaw?** This determines whether the At-Large oversight design works as intended.
+1. **Fix the s. 617.0822 citation** to s. 617.0820(5). This one is not a question for counsel; it is a defect with a known answer.
+2. **Confirm the residuals:** s. 617.1601(2) and (3) pinpoints, and s. 617.0833's survival.
+3. **Ask about §4(A)–(D):** the quorum denominator, the special-meeting call right, whether dues enforcement must be stated in the bylaws rather than delegated, and whether Article XIII should authorize fines at all.
+4. **Decide whether to add §4(E)–(H)** — the on-demand financial regime, the director inspection right, the 90-day consent window, and a cross-reference tying Article V's no-compensation rule to the s. 617.0834 immunity it protects.
 
-**Method note for whoever maintains this package.** Until the 2026 codified edition is published, `leg.state.fl.us` will keep returning 2025 text without saying so. Verify against Ch. 2026-168 itself. The failure mode is not that the site errors out — it is that it answers confidently and correctly for a superseded year.
+**Method note.** Until the 2026 codified edition is published, `leg.state.fl.us` will keep serving 2025 text without saying so. Verify against Ch. 2026-168 — and prefer **rendered page images** of the enrolled bill over extracted text, because extraction merges struck language with enacted language and produces statements that read as authoritative and are wrong. Rev. 1 of this file was produced without that discipline and reported nearly a dozen settled questions as open.
