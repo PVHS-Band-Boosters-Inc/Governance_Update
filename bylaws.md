@@ -182,17 +182,31 @@ The disclosure, the recusal, the comparability information, and the vote shall b
 
 **Nature of Rights.** The rights under this Article are contract rights, are not exclusive of other rights, continue after service ends, and inure to heirs and personal representatives. No amendment or repeal of this Article reduces the rights of any person with respect to acts or omissions occurring before the amendment or repeal.
 
-## Article XIII – Dues and Assessments
+## Article XIII – Dues; Program Fees; Charges for Booster-Provided Goods and Services
 
-**Authorization.** The corporation may levy annual membership dues and Program assessments on its members, as authorized by section 617.0604, Florida Statutes.
+**Three Distinct Charges.** The corporation may impose three distinct kinds of charge. The Board shall set, state, budget, and account for them separately, and shall not combine them into a single undifferentiated amount:
 
-**Board Sets Amounts.** As permitted by section 617.0604(3), Florida Statutes, the Board shall fix the amount, categories, and method of collection of dues and assessments by resolution not less than annually. Dues and assessments shall be imposed on the same basis on similarly situated members.
+1. **Membership dues** — a charge for membership in the corporation for a Program year.
+2. **Program fees** — a mandatory charge on the families of students enrolled in the Program, to fund the Program as a whole.
+3. **Charges for Booster-provided goods and services** — a charge for a discrete good or service the corporation itself purchases and furnishes, such as a chartered trip, a meal plan, or a spirit package.
 
-**Uniformity; No Fundraising Offset.** Dues and assessments are payments for the Program year. They shall not be reduced, credited, or offset by reference to the amount any individual member or family raised, solicited, or worked, as provided in Article XVII.
+**Authorization; Board Sets Amounts.** The corporation may levy dues, assessments, and fees on its members as authorized by section 617.0604, Florida Statutes. As permitted by section 617.0604(3), Florida Statutes, the Board shall fix the amount, categories, and method of collection of each charge by resolution not less than annually, stating each separately. Each charge shall be imposed on the same basis on all similarly situated persons.
 
-**Hardship; No Exclusion.** The Board shall adopt and publish hardship-waiver criteria. No student shall be excluded from Program participation supported by the corporation solely because of a family's demonstrated inability to pay.
+**Charges Do Not Gate Membership or Governance Rights.** Membership is determined solely by Article IV. Nonpayment of any charge under this Article does not terminate or suspend membership, does not disqualify a person from voting, from nomination, or from serving as an Officer or Director, and does not affect any right of a member that the corporation may not limit under chapter 617, Florida Statutes.
 
-**Enforcement.** Collection may be enforced by reasonable means adopted by the Board, after written notice to the member and an opportunity to be heard as required by section 617.0607, Florida Statutes. Nonpayment does not terminate membership and does not affect any right of a member that the corporation may not limit under chapter 617, Florida Statutes.
+**Program Fees: Enforceable as Debt, Never a Condition of Participation.** A Program fee is a mandatory obligation of the family charged and is enforceable as a debt owed to the corporation. It is not a condition of a student's participation in the Program. The corporation has no authority to exclude a student from, or limit a student's participation in, a school-sponsored activity, and shall not condition — or request that the school, the Band Director, or any District employee condition — a student's participation, placement, casting, audition, travel with the ensemble, or receipt of any school-provided benefit on payment of any charge under this Article.
+
+**Booster-Provided Goods and Services.** Where a charge is for a discrete good or service the corporation itself purchases and furnishes, the corporation may withhold that good or service from a family that has not paid for it, because withholding the corporation's own goods does not exclude a student from the Program. The Board shall identify such charges as such at the time it sets them. This paragraph does not permit withholding anything the school, the District, or the Program provides. Where the good or service is the only practical means by which a student can participate in a school-sponsored activity — including transportation the corporation has chartered for an ensemble trip — it shall not be withheld, and the hardship provisions below apply instead.
+
+**No Fundraising Offset.** No charge under this Article shall be reduced, credited, or offset by reference to the amount any individual member or family raised, solicited, or worked, as provided in Article XVII.
+
+**Hardship; No Exclusion.** The Board shall adopt and publish hardship-waiver criteria applicable to every charge under this Article. No student shall be excluded from Program participation supported by the corporation, and no good or service shall be withheld under the paragraph above, solely because of a family's demonstrated inability to pay.
+
+**Not School District Fees.** Charges under this Article are obligations to the corporation and are separate from any fee established by the School District or the school. No Officer, Director, or volunteer shall represent that a charge under this Article is required by the School District or the school, unless the District has expressly authorized the corporation to collect that fee on the District's behalf.
+
+**Not Charitable Contributions.** No charge under this Article shall be acknowledged, receipted, or described as a charitable contribution, as provided in the Gift Acceptance and Sponsorship Policy and the Fundraising and Federal Tax Compliance Policy.
+
+**Enforcement.** Collection may be enforced by reasonable means adopted by the Board, after written notice to the family and an opportunity to be heard. Reasonable means do not include any action affecting a student's standing, participation, or treatment in the Program. Any action terminating or suspending a membership is separately subject to section 617.0607, Florida Statutes, and to Article IV.
 
 ## Article XIV – Corporate Records; Inspection; Financial Transparency
 
