@@ -13,7 +13,8 @@ The goal of the Band Boosters is to assist the Band Director in the operations o
 **Financial**
 - Adopt an annual Program budget each year, in consultation with the Band Director, before or as soon as practicable after the start of the fiscal year
 - Purchase items for the Program, and pay Program staff and designers, as requested by the Band Director, within the Board-approved budget and pursuant to the Financial Controls Policy (including its worker-classification and written-agreement requirements)
-- Expenditures not within the Board-approved budget and greater than $500.00 shall require prior Board approval
+- No Officer, Director, employee, volunteer, committee, or committee chair shall spend, or commit or purport to commit the corporation to spend, more than $500.00 on any matter not within the Board-approved budget, without prior Board approval. This is a limit on authority to commit the corporation, not merely a condition of reimbursement
+- A transaction shall not be divided into multiple purchases, orders, invoices, reimbursements, or payments for the purpose of bringing it below the threshold above or below any approval threshold established by Board policy
 - Conduct fundraising and sponsorship activities for the Program
 - Provide quarterly financials to the Board and the Band Director
 
@@ -93,7 +94,7 @@ Officers shall not be compensated by the PVHS Band Boosters, nor shall they rece
 
 ## Article VI – Officers' Duties; Fiscal Year
 
-**President:** Preside over all meetings of the members and of the Board. Serve as the corporation's principal executive officer. Organize projects with the Board and the Band Director. Sign contracts and other instruments approved by the Board. Obtain approval for all Booster projects from appropriate authorities.
+**President:** Preside over all meetings of the members and of the Board. Serve as the corporation's principal executive officer. Organize projects with the Board and the Band Director. Execute contracts and other instruments on behalf of the corporation. Only the President, or another Officer designated by Board resolution either for a specified matter or for a stated period, may execute a contract or other instrument binding the corporation. No other Officer, Director, committee chair, committee member, or volunteer has actual authority to bind the corporation, and no person shall represent to any third party that he or she holds such authority. Board approval of the annual budget constitutes the Board's approval of commitments within it, and no separate Board vote is required to execute them; a commitment not within the Board-approved budget requires prior Board approval as provided in Article II. This paragraph governs authority to commit the corporation; the execution and signing of payments is separately governed by the Financial Controls Policy. Obtain approval for all Booster projects from appropriate authorities.
 
 **Vice Presidents:** Assist the President on all projects. The Vice President of Fundraising leads fundraising and sponsorship activities consistent with Board policy. The Vice President of Operations leads logistics, props, equipment, and event operations.
 
