@@ -93,7 +93,7 @@ Officers shall not be compensated by the PVHS Band Boosters, nor shall they rece
 
 **Secretary:** Record and distribute all meeting minutes. Give required notices of meetings. Maintain the corporate records required by section 617.1601, Florida Statutes, including the articles, bylaws, minutes, written consents, and the list of current Directors and Officers.
 
-**Treasurer:** Manage and account for all monies collected. Maintain accounting records in a form that permits preparation of the corporation's financial statements as required by sections 617.1601(2) and 617.1605, Florida Statutes. Present a quarterly financial report to the Board and provide quarterly financials to the Band Director. Coordinate the corporation's annual filings, including the IRS Form 990 series return, the Florida Department of State annual report, and any registration required under the Florida Solicitation of Contributions Act (chapter 496, Florida Statutes). Implement the Financial Controls Policy adopted by the Board.
+**Treasurer:** Manage and account for all monies collected and spent. Maintain accounting records in a form that permits preparation of the corporation's financial statements as required by sections 617.1601(2) and 617.1605, Florida Statutes. Present a quarterly financial report to the Board and provide quarterly financials to the Band Director. Coordinate the corporation's annual filings, including the IRS Form 990 series return, the Florida Department of State annual report, and any registration required under the Florida Solicitation of Contributions Act (chapter 496, Florida Statutes). Implement the Financial Controls Policy adopted by the Board.
 
 **Fiscal Year.** The fiscal year of the corporation begins July 1 and ends June 30.
 
