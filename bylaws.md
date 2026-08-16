@@ -149,7 +149,9 @@ These Bylaws may be amended (a) at any meeting of the members by a vote of two-t
 
 ## Article X – Dissolution
 
-In the event of the dissolution of the PVHS Band Boosters, the residual funds and assets of the organization, after payment of liabilities, shall be distributed to the St. Johns County School District for the benefit of the Ponte Vedra High School band program, or to another governmental unit for exclusive public purposes, or to one or more organizations then described in section 501(c)(3) of the Internal Revenue Code, consistent with the Articles of Incorporation. No assets shall be distributed to any member, Director, or Officer.
+Upon the dissolution of the corporation, after payment or provision for payment of all liabilities of the corporation, all remaining assets shall be distributed exclusively for one or more exempt purposes within the meaning of section 501(c)(3) of the Internal Revenue Code, to one or more organizations then qualifying as exempt under section 501(c)(3), or to the federal government, or to a state or local government, for a public purpose, as determined in accordance with applicable law and the Articles of Incorporation. Any assets not so disposed of shall be disposed of by the Circuit Court of the county in which the principal office of the corporation is then located, exclusively for such purposes or to such organization or organizations as that Court shall determine, which are organized and operated exclusively for such purposes.
+
+No assets shall be distributed to any member, Director, Officer, employee, or private individual.
 
 ## Article XI – Conflicts of Interest
 
