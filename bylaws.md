@@ -2,11 +2,11 @@
 
 ## Article I – Name
 
-The name of this organization shall be the PVHS Band Boosters, Inc. serving Ponte Vedra High School Band and Color Guard programs.
+The name of this organization shall be the PVHS Band Boosters, Inc.
 
 ## Article II – Purpose and Goal
 
-The purpose of the PVHS Band Boosters (the "Band Boosters") is to be a community service booster organization supporting the Ponte Vedra High School Band and Color Guard Program, including Winter Guard and Indoor Percussion, (the "Program"). The Boosters shall promote the interests of the students of the Program, by providing organizational, educational, and financial support in concert with the Band Director. This organization shall exclusively follow the charitable and educational purposes within the meaning of section 501(c)3 of the Internal Revenue Code as a non-profit organization.
+The purpose of the PVHS Band Boosters (the "Band Boosters") is to be a community service booster organization supporting the Ponte Vedra High School Band and the associated competitive ensembles, including Color Guard, Winter Guard, and Indoor Percussion, (the "Program"). The Boosters shall promote the interests of the students of the Program, by providing organizational, educational, and financial support in concert with the Band Director. This organization shall exclusively follow the charitable and educational purposes within the meaning of section 501(c)3 of the Internal Revenue Code as a non-profit organization.
 
 The goal of the Band Boosters is to assist the Band Director in the operations of the Program as follows:
 
@@ -15,7 +15,7 @@ The goal of the Band Boosters is to assist the Band Director in the operations o
 - Purchase items for the Program, and pay Program staff and designers, as requested by the Band Director, within the Board-approved budget and pursuant to the Financial Controls Policy (including its worker-classification and written-agreement requirements)
 - Expenditures not within the Board-approved budget and greater than $500.00 shall require prior Board approval
 - Conduct fundraising and sponsorship activities for the Program
-- Provide monthly financials to the Board and the Band Director
+- Provide quarterly financials to the Board and the Band Director
 
 **Booster Committees**
 - Establish and manage Booster Committees as permitted by these Bylaws
@@ -44,9 +44,9 @@ The Band Director's authority over the Program is educational and artistic. The 
 
 **Membership.** The membership shall consist of all parents and legal guardians of current Program students. Members shall observe all school rules and regulations, and support state standards and the direction of the administration. Each member shall register as a School District volunteer as required by the District's Guidelines for School Support Organizations. Membership is personal and not transferable. The record of members required by section 617.1601(3), Florida Statutes, shall be maintained under the direction of the Secretary with the assistance of the Membership Committee.
 
-**Annual Meeting.** The General Meeting held each April is the annual meeting of the members. At the annual meeting, the members shall elect the Officers (who serve as Directors under Article VIII) and may transact any other proper business.
+**Annual Meeting.** The General Meeting held each Spring Semester is the annual meeting of the members. At the annual meeting, the members shall elect the Officers (who serve as Directors under Article VIII) and may transact any other proper business.
 
-**General Meetings.** General Meetings of the members shall be held at least quarterly, on campus, by remote means, or both. Notice of each General Meeting, stating the date, time, place, and any means of remote participation, shall be given to members at least seven (7) days before the meeting. Notice of the annual meeting shall be given at least fourteen (14) days before the meeting and shall state that Officers will be elected. The President shall conduct all General Meetings according to Robert's Rules of Order.
+**General Meetings.** General Meetings of the members shall be held at least quarterly, on campus, by remote means, or both. Notice of each General Meeting, stating the date, time, and place, and whether remote participation will be offered, shall be given to members at least seven (7) days before the meeting; if remote participation is offered, the specific technical instructions for remote access may be provided to members separately, before the meeting, and need not accompany the notice itself. Notice of the annual meeting shall be given at least fourteen (14) days before the meeting and shall state that Officers will be elected. The President shall conduct all General Meetings according to Robert's Rules of Order.
 
 **Quorum of Members.** Members holding ten percent (10%) of the votes entitled to be cast, present in person or by remote participation, constitute a quorum at any meeting of the members.
 
@@ -64,7 +64,7 @@ The Band Director's authority over the Program is educational and artistic. The 
 
 **Officers.** The Officers shall be the President, Vice President of Fund Raising, Vice President of Operations, Treasurer, and Secretary. These five positions are the corporation's only officers for purposes of section 617.0844, Florida Statutes; committee chairs and other volunteers are not officers of the corporation. Each Officer serves as a Director under Article VIII. Each Officer must be, and must remain throughout his or her term, a registered School District volunteer.
 
-**Election and Term.** Officers are elected by the members at the annual meeting in April for the next fiscal year. Members may nominate themselves or other members; the Nominations Committee shall solicit and present candidates. Voting shall be by ballot or by hand vote, or, if authorized by the Board, by verified electronic ballot. Officers serve a one (1) year term, with a limitation of two (2) consecutive terms in the same office, and each Officer continues to serve until his or her successor is elected and takes office, or until his or her earlier resignation, removal, or death.
+**Election and Term.** Officers are elected by the members at the annual meeting each Spring Semester for the next fiscal year. Members may nominate themselves or other members; the Nominations Committee shall solicit and present candidates. Voting shall be by ballot or by hand vote, or, if authorized by the Board, by verified electronic ballot. Officers serve a one (1) year term, with a limitation of two (2) consecutive terms in the same office, and each Officer continues to serve until his or her successor is elected and takes office, or until his or her earlier resignation, removal, or death.
 
 **Resignation.** An Officer may resign at any time by written notice to the President or the Secretary.
 
@@ -83,7 +83,7 @@ Officers shall not be compensated by the PVHS Band Boosters, nor shall they rece
 
 **Secretary:** Record and distribute all meeting minutes. Give required notices of meetings. Maintain the corporate records required by section 617.1601, Florida Statutes, including the articles, bylaws, minutes, written consents, and the list of current Directors and Officers.
 
-**Treasurer:** Manage and account for all monies collected. Maintain accounting records in a form that permits preparation of the corporation's financial statements as required by sections 617.1601(2) and 617.1605, Florida Statutes. Present a monthly financial report to the Board and provide monthly financials to the Band Director. Coordinate the corporation's annual filings, including the IRS Form 990 series return, the Florida Department of State annual report, and any registration required under the Florida Solicitation of Contributions Act (chapter 496, Florida Statutes). Implement the Financial Controls Policy adopted by the Board.
+**Treasurer:** Manage and account for all monies collected. Maintain accounting records in a form that permits preparation of the corporation's financial statements as required by sections 617.1601(2) and 617.1605, Florida Statutes. Present a quarterly financial report to the Board and provide quarterly financials to the Band Director. Coordinate the corporation's annual filings, including the IRS Form 990 series return, the Florida Department of State annual report, and any registration required under the Florida Solicitation of Contributions Act (chapter 496, Florida Statutes). Implement the Financial Controls Policy adopted by the Board.
 
 **Fiscal Year.** The fiscal year of the corporation begins July 1 and ends June 30.
 

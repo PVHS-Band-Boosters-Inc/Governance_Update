@@ -7,14 +7,14 @@ Protects charitable assets, the volunteers who handle them, and the Officers who
 
 ## 2. Budget
 
-The Board adopts an annual Program budget (Bylaws Art. II) before or promptly after fiscal year start. The Treasurer reports monthly to the Board: actual vs. budget, cash position, and any variance over 10% or $1,000 in a category. Unbudgeted expenditures over $500 require prior Board approval (Bylaws Art. II).
+The Board adopts an annual Program budget (Bylaws Art. II) before or promptly after fiscal year start. The Treasurer reports quarterly to the Board: actual vs. budget, cash position, and any variance over 10% or $1,000 in a category. Unbudgeted expenditures over $500 require prior Board approval (Bylaws Art. II).
 
 ## 3. Segregation of Duties
 
 No single person both initiates and completes any financial transaction end-to-end:
 - **Checks and disbursements:** Only elected Officers may be authorized to sign checks. **Two signatures are required on all checks** (District Guidelines §V). Authorized signers may not be related to each other or live in the same household. Electronic disbursements require documented approval by two Officers, applied to the same standard. Disbursements over $500 additionally follow Bylaws Art. II. Recurring budgeted payments may be pre-approved by resolution, listed by payee and cap.
 - **Bank accounts:** accounts are held in the corporation's name under its own EIN — never the school's or District's — with the school's address as the primary account address, per District Guidelines. A **non-signatory** member reviews the monthly bank statements and signs them as evidence of review (District Guidelines §V).
-- **Monthly reporting to the Principal:** copies of the bank statements and the treasurer's report are provided to the Principal monthly (District Guidelines §V), in addition to the Treasurer's monthly report to the Board.
+- **Monthly reporting to the Principal:** copies of the bank statements and the treasurer's report are provided to the Principal monthly (District Guidelines §V) regardless of the Treasurer's quarterly reporting cadence to the Board — the Principal-facing report is a District requirement and is prepared monthly even in months between Board reports.
 - **Reconciliation:** the Treasurer reconciles all accounts monthly; a different Officer reviews and signs the reconciliation.
 - **No signature stamps; no signing blank checks; no shared login credentials.** Officers shall not use personal accounts (e.g., personal Venmo/PayPal/Zelle) to receive corporate funds.
 
