@@ -7,7 +7,7 @@ Protects charitable assets, the volunteers who handle them, and the Officers who
 
 ## 2. Budget
 
-The Board adopts an annual Program budget (Bylaws Art. II) before or promptly after fiscal year start. The Treasurer reports quarterly to the Board: actual vs. budget, cash position, and any variance over 10% or $1,000 in a category. Unbudgeted expenditures over $500 require prior Board approval (Bylaws Art. II).
+The Board adopts an annual Program budget (Bylaws Art. II) before or promptly after fiscal year start. The Treasurer reports quarterly to the Board: actual vs. budget, cash position, and any variance over 10% or $1,000 in a category. Unbudgeted expenditures over $500 require prior Board approval (Bylaws Art. II), and no person other than the President or a Board-designated Officer may execute an instrument binding the corporation (Bylaws Art. VI). The President and Treasurer acting jointly may authorize up to $1,000 in a genuine emergency where written consent of the Board is not practicable in time (Bylaws Art. II); the Treasurer documents the circumstances contemporaneously, not at the next meeting, and the expenditure is reported to the Board and minuted. Emergency authority does not relax the two-signature disbursement rule in Section 3 — it substitutes for prior Board approval, not for payment controls.
 
 ## 3. Segregation of Duties
 
