@@ -28,7 +28,6 @@ Unless changed by Board resolution, the following committees and individual posi
 | Alumni Coordinator *(individual position)* | Maintains the alumni database and invitations to alumni for Band events | Member appointed by the Board |
 | Membership Committee | Maintains the list of Band Booster membership, assisting the Secretary under Article IV | Member appointed by the Board |
 | Newsletter Committee | Maintains the Band newsletter and works with the Membership Committee to ensure information reaches the membership | Member appointed by the Board |
-| Nominations Committee | Solicits and presents candidates for the annual officer election under Article V | Member appointed by the Board |
 | Middle School Liaison *(individual position)* | Works with the Band Director on special events for local middle schools and communication with rising 9th graders and their parents | Member appointed by the Board |
 | Senior Committee | Oversees Senior-year activities and needs | Member appointed by the Board |
 
