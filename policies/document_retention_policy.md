@@ -22,6 +22,8 @@ Implements section 617.1601, Florida Statutes, and federal record-keeping expect
 | Contracts and staff/designer agreements | 7 years after expiration | §6672 exposure; audit support |
 | Insurance policies | Permanent | claims-made tail |
 | Charitable solicitation (Ch. 496) registrations | 7 years | FDACS |
+| Donor records: gift and pledge documentation, acknowledgments issued, quid pro quo disclosures, and donor correspondence | 7 years | IRC §§170(f)(8), 6115 substantiation; Gift Acceptance and Sponsorship Policy §3 |
+| Restricted-gift instruments and donor instructions imposing a continuing restriction | Permanent, or 7 years after the restriction is fully satisfied or released | Restriction survives the gift year; Financial Controls Policy §8 |
 | Volunteer screening and student medical/travel forms | Per district requirements; minimum duration of student enrollment + 3 years | district policy |
 | Whistleblower reports and investigation records | 7 years after closure | oversight documentation |
 | Annual conflict disclosure statements | 7 years | §617.0143 qualification evidence |
