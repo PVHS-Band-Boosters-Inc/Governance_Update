@@ -66,7 +66,7 @@ The Band Director's authority over the Program is educational and artistic. The 
 
 ## Article V – Officers and Directors; Election; Term; Removal; Vacancies; Compensation
 
-**Officers.** The Officers shall be the President, Vice President of Fund Raising, Vice President of Operations, Treasurer, and Secretary. These five positions are the corporation's only officers for purposes of section 617.0844, Florida Statutes; committee chairs and other volunteers are not officers of the corporation. Each Officer serves as a Director under Article VIII. Each Officer must be, and must remain throughout his or her term, a registered School District volunteer.
+**Officers.** The Officers shall be the President, Vice President of Fundraising, Vice President of Operations, Treasurer, and Secretary. These five positions are the corporation's only officers for purposes of section 617.0844, Florida Statutes; committee chairs and other volunteers are not officers of the corporation. Each Officer serves as a Director under Article VIII. Each Officer must be, and must remain throughout his or her term, a registered School District volunteer.
 
 **Election and Term.** Officers are elected by the members at the annual meeting each Spring Semester for the next fiscal year. Members may nominate themselves or other members; the Nominations Committee shall solicit and present candidates. Voting shall be by ballot or by hand vote, or, if authorized by the Board, by verified electronic ballot as provided in Article IV. Officers serve a one (1) year term, with a limitation of two (2) consecutive terms in the same office, and each Officer continues to serve until his or her successor is elected and takes office, or until his or her earlier resignation, removal, or death.
 
@@ -83,7 +83,7 @@ Officers shall not be compensated by the PVHS Band Boosters, nor shall they rece
 
 **President:** Preside over all meetings of the members and of the Board. Serve as the corporation's principal executive officer. Organize projects with the Board and the Band Director. Sign contracts and other instruments approved by the Board. Obtain approval for all Booster projects from appropriate authorities.
 
-**Vice Presidents:** Assist the President on all projects. The Vice President of Fund Raising leads fundraising and sponsorship activities consistent with Board policy. The Vice President of Operations leads logistics, props, equipment, and event operations.
+**Vice Presidents:** Assist the President on all projects. The Vice President of Fundraising leads fundraising and sponsorship activities consistent with Board policy. The Vice President of Operations leads logistics, props, equipment, and event operations.
 
 **Secretary:** Record and distribute all meeting minutes. Give required notices of meetings. Maintain the corporate records required by section 617.1601, Florida Statutes, including the articles, bylaws, minutes, written consents, and the list of current Directors and Officers.
 

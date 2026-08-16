@@ -13,7 +13,7 @@ Unless changed by Board resolution, the following committees and individual posi
 |---|---|---|
 | Executive Committee | Oversees all business and activities of the Band Boosters | President |
 | Budget and Finance Committee | Oversees the budget and all financial needs of the Boosters in support of Program | Treasurer |
-| Fundraising Committee | Oversees all fundraising activities and sponsorships of the Band and Color Guard | Vice President of Fund Raising |
+| Fundraising Committee | Oversees all fundraising activities and sponsorships of the Band and Color Guard | Vice President of Fundraising |
 | Props Committee | Works in conjunction with the Band Director on the creation of props for the Band and Color Guard | Vice President of Operations |
 | Friday Night Lights Committee | Oversees the needs of the Band for Friday night football games and set-up of all Band equipment in the stadium; coordinates with the PVHS Athletic Director and custodial staff for the Band food tent, seating, and game-day needs | Member appointed by the Board |
 | Winter Guard and Indoor Percussion Committee | Oversees all needs and events of the Winter Guard and Indoor Percussion regiments, including uniforms, props, and travel | Member appointed by the Board |
