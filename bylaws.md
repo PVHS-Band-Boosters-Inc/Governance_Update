@@ -251,3 +251,13 @@ If any provision of these Bylaws is held invalid or unenforceable, the remaining
 **Games of Chance.** No raffle, drawing, or other game of chance shall be conducted in the corporation's name, with its funds, or at its events, except on prior written approval of the Board recorded in the minutes and in compliance with section 849.0935, Florida Statutes, and applicable federal reporting and withholding requirements.
 
 **Amendment.** This Article may be amended only by the members in the manner provided in Article IX. No resolution or policy of the Board may vary its terms.
+
+## Article XVIII – Transition; Pre-Existing Matters
+
+**Corporate Obligations Remain the Corporation's.** The obligations, liabilities, and commitments of the corporation are the corporation's own. They do not become the personal obligations of any member, Director, or Officer by reason of that person's service, and the corporation shall not seek to shift them to any individual on that basis.
+
+**No Personal Responsibility for Pre-Service Matters.** A Director or Officer is not personally responsible to the corporation for any act, omission, transaction, obligation, liability, or other matter arising before the date on which that person commenced service in that capacity, solely by reason of subsequently serving in that capacity.
+
+**Duty on Discovery.** Each Director and Officer shall act in good faith and in the best interests of the corporation with respect to matters arising during his or her service. Upon becoming aware of any pre-existing matter that may create legal, financial, tax, regulatory, contractual, or other liability for the corporation, the Director or Officer shall promptly bring the matter to the attention of the Board and, where appropriate, to the corporation's legal, accounting, insurance, or other professional advisors. This duty is continuing, and a failure to discharge it is an act or omission occurring during that person's own service.
+
+**No Limitation of Liability Imposed by Law.** This Article does not alter, limit, or waive any duty or liability imposed by applicable federal or Florida law, and confers no protection that law does not permit. Nothing in this Article relieves any person of liability arising from that person's own acts or omissions during his or her service, or from conduct for which indemnification or limitation of liability is prohibited by law. Certain federal and state tax liabilities may attach to an individual personally notwithstanding this Article and notwithstanding any state-law immunity; the Financial Controls Policy identifies them and no one should read this Article as displacing them.
