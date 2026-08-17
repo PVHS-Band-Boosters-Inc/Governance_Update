@@ -7,12 +7,12 @@ This Policy implements Bylaws Article VII. It is administrative, not corporate s
 
 ## 2. Standing Committees and Individual Positions
 
-Unless changed by Board resolution, the following committees and individual positions are established, with the duties and (where applicable) Officer-chair assignments below. Any committee not assigned an Officer-chair is led by a Member appointed by the Board.
+Unless changed by Board resolution, the following committees and individual positions are established, with the duties and (where applicable) Officer-chair assignments below. Any committee not assigned an Officer-chair is led by a member — or, where the Board approves under Bylaws Article VII, another registered School District volunteer who is not a member — appointed by the Board.
 
 | Committee / Position | Duties | Chair |
 |---|---|---|
-| Executive Committee | Oversees all business and activities of the Band Boosters | President |
-| Budget and Finance Committee | Oversees the budget and all financial needs of the Boosters in support of Program | Treasurer |
+| Executive Committee | Consists of the five Officers; coordinates, between Board meetings, business the Board has authorized; exercises no authority reserved to the Board or the members (Bylaws Arts. III, VIII) | President |
+| Budget and Finance Committee | Supports the Treasurer in budget preparation and monitoring and recommends to the Board, which retains sole and non-delegable authority over funds and budget (Bylaws Art. III) | Treasurer |
 | Fundraising Committee | Oversees all fundraising activities and sponsorships of the Band and Color Guard | Vice President of Fundraising |
 | Props Committee | Works in conjunction with the Band Director on the creation of props for the Band and Color Guard | Vice President of Operations |
 | Friday Night Lights Committee | Oversees the needs of the Band for Friday night football games and set-up of all Band equipment in the stadium; coordinates with the PVHS Athletic Director and custodial staff for the Band food tent, seating, and game-day needs | Member appointed by the Board |
@@ -33,7 +33,7 @@ Unless changed by Board resolution, the following committees and individual posi
 
 ## 3. Reporting
 
-Unless a different Director is designated by Board resolution, each committee chair and individual-position holder reports to the Director serving in the Officer role identified as chair in Section 2, or, for committees and positions with no Officer-chair, to the Director assigned by the Board at the start of each Program year.
+A committee chaired by an Officer reports through that Officer to the Board. Unless a different Director is designated by Board resolution, each other committee chair and individual-position holder reports to the Director assigned by the Board at the start of each Program year.
 
 ## 4. Restrictions
 

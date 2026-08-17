@@ -11,7 +11,7 @@ Board and member meetings may be held wholly or partly by remote means through w
 
 ## 3. Written Consents and Electronic Signatures
 
-Board action without a meeting requires the signed consent of **all** Directors (§617.0821); member action without a meeting follows §617.0701(4). Electronic signatures (typed-name-plus-email confirmation, e-sign platform, or signed scan) are valid. Each consent states the action, the date of each signature, and is delivered to the Secretary; Board consents are effective when the last Director signs and delivers (a Director may revoke before then). All consents are filed with the minutes.
+Board action without a meeting requires the signed consent of **all** Directors under the §617.0821 default until the restated Bylaws take effect; upon their adoption, Bylaws Article VIII permits action by written consent of a **majority of the Directors then in office**, and that rule controls. Member action without a meeting follows §617.0701(4), including its 90-day window measured from the earliest-dated consent. Electronic signatures (typed-name-plus-email confirmation, e-sign platform, or signed scan) are valid. Each consent states the action and the date of each signature and is delivered to the corporation through the Secretary; a Board consent is effective when Directors sufficient to act under the applicable rule have signed and delivered it, and a Director may revoke a consent by signed revocation delivered before then. All consents are filed with the minutes.
 
 ## 4. Identity Verification
 

@@ -7,7 +7,7 @@ This Policy implements sections 617.0143 and 617.0832, Florida Statutes, and sup
 
 ## 2. Covered Persons
 
-Directors, Officers, committee chairs, the Band Director (in his or her dealings with the corporation), and family members of each (spouse; child, stepchild, parent, stepparent, grandparent, sibling, step- or half-sibling of the person or the person's spouse).
+Directors, Officers, committee chairs, committee members, individual-position holders, the Band Director (in his or her dealings with the corporation), and family members of each (spouse; child, stepchild, parent, stepparent, grandparent, sibling, step- or half-sibling of the person or the person's spouse), as Bylaws Article XI provides.
 
 ## 3. Duty to Disclose
 
@@ -19,7 +19,7 @@ The interested person shall not participate in Board deliberation or vote on the
 
 ## 5. Annual Disclosure Statement
 
-Each Director and Officer shall sign the statement in Appendix A at the start of each term and upon any material change. The Secretary retains statements with the corporate records.
+Each Director, Officer, committee chair, and individual-position holder shall sign the statement in Appendix A at the start of each term or Program year of service and upon any material change, as Bylaws Article XI requires; ordinary committee members do not sign the annual statement but remain bound by the disclosure and recusal duties above. The Secretary retains statements with the corporate records.
 
 ## 6. Approval of Conflicted Transactions *(operative upon Bylaws Article XI adoption)*
 
@@ -31,7 +31,7 @@ Loans to Directors or Officers (§617.0833, Fla. Stat.); acceptance of gratuitie
 
 ## 8. Violations
 
-Suspected violations are addressed by the disinterested Directors, which may include voiding the transaction where permitted, corrective disclosure, or removal proceedings under the Bylaws.
+Suspected violations are addressed by the Directors other than any person implicated, which may include voiding the transaction where permitted, corrective disclosure, or removal proceedings under the Bylaws.
 
 ---
 
