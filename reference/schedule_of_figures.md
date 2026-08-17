@@ -25,6 +25,8 @@ These change without notice. Assume a figure in this block is stale if it has no
 
 > **Do not use IRS Publication 3079 for A1.** It is revised 10-2018 and still shows the former $600 threshold. Topic publications are background; form instructions are authority.
 
+> **A3 governs the filing obligation only.** It does not change the worker-classification analysis, does not change a recipient's own obligation to report the income, and does not license paying a worker below the threshold to avoid issuing a return. Confirm A3 each year rather than from memory -- it changed for payments made after 31 Dec 2025 and is now indexed. Where classification is contested or a record would be useful, the corporation may file voluntarily (Fundraising and Federal Tax Compliance Policy §8).
+
 ## B. Statutory — stable, but confirm on any tax-law change
 
 | # | Figure | Current value | Applies to | Authority |
@@ -62,7 +64,7 @@ Listed here so they are not mistaken for statutory figures. **These change only 
 | D3 | Deposit deadline for event cash | **3 business days** | Financial Controls Policy §4 |
 | D4 | Receipts for reimbursement | **30 days** | Financial Controls Policy §7 |
 | D5 | Bank signer update after officer transition | **15 days** | Financial Controls Policy §9 |
-| D6 | Member quorum | **10%** of members | Bylaws Art. IV |
+| D6 | Member quorum | **5%** of members | Bylaws Art. IV |
 
 ---
 
