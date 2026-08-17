@@ -1,7 +1,9 @@
 # Statutory Citation Verification — Chapter 2026-168 (HB 797)
 ### PVHS Band Boosters, Inc. — **not adopted.** Working record for counsel review.
 
-**Rev. 2 — 16 August 2026.** Explanatory material under `reference/`. Nothing here is adopted and it creates no obligation.
+**Rev. 3 — 16 August 2026.** Explanatory material under `reference/`. Nothing here is adopted and it creates no obligation.
+
+**Status.** The defect in §1 (the repealed s. 617.0822 citation) and all eight gaps in §4 have been **implemented in the drafts** — see commits `728ae81` (citation fix and the eight gaps), `bf99938` (full-document consistency pass after adversarial review), and `856c803` (policy conformance). What remains open for counsel is §5 items 2–3: the two pinpoint residuals (s. 617.1601(2)–(3), s. 617.0833) and confirmation of the quorum-denominator and special-meeting-call analyses now drafted into Article VIII.
 
 ---
 
